@@ -1,4 +1,4 @@
-const { addonBuilder } = require("stremio-addon-sdk");
+const { addonBuilder, serveHTTP } = require("stremio-addon-sdk");
 const fs = require("fs");
 
 const manifest = {
@@ -46,5 +46,5 @@ builder.defineCatalogHandler((args) => {
   return Promise.resolve({ metas });
 });
 
-// export et
-module.exports = builder.getInterface();
+// HTTP sunucusunu başlat (Render için şart!)
+serveHTTP(builder.getInterface(), { port: 7010 });
