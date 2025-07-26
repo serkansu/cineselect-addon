@@ -3,13 +3,13 @@ FROM node:18
 # Uygulama dizini
 WORKDIR /app
 
-# Sadece package.json kopyalanıyor
+# Sadece package.json kopyala
 COPY package.json ./
 
 # Bağımlılıkları yükle
 RUN npm install
 
-# Geri kalan tüm dosyaları kopyala
+# Diğer tüm dosyaları kopyala (lock dosyası artık olmadığı için sorun yok)
 COPY . .
 
 # Portu aç
