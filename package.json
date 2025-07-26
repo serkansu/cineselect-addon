@@ -1,0 +1,16 @@
+{
+  "name": "cineselect",
+  "version": "1.0.0",
+  "description": "CineSelect Stremio Catalog Addon",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["stremio", "addon", "cine", "catalog"],
+  "author": "serkan",
+  "license": "MIT",
+  "dependencies": {
+    "stremio-addon-sdk": "^0.17.2"
+  }
+}
