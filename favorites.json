@@ -1,60 +1,16 @@
 {
   "movies": [
     {
-      "id": "tt0108052",
-      "title": "Schindler's List",
-      "year": 1993,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMWU4N2Q1Yzkt.jpg",
-      "imdbRating": 9.0,
-      "rtRating": 98,
-      "cineScore": 5
+      "title": "Inception",
+      "imdb": "tt1375666",
+      "poster": "https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY679_.jpg",
+      "description": "A thief who steals corporate secrets through dream-sharing."
     },
     {
-      "id": "tt0111161",
-      "title": "The Shawshank Redemption",
-      "year": 1994,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmRhMC00ZDJlLWFmNTEtODM1ZDU3YzY4N2UwXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_.jpg",
-      "imdbRating": 9.3,
-      "rtRating": 91,
-      "cineScore": 5
-    },
-    {
-      "id": "tt0120737",
-      "title": "The Lord of the Rings: The Fellowship of the Ring",
-      "year": 2001,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3N2Et.jpg",
-      "imdbRating": 8.8,
-      "rtRating": 91,
-      "cineScore": 4
-    }
-  ],
-  "shows": [
-    {
-      "id": "tt0903747",
-      "title": "Breaking Bad",
-      "year": 2008,
-      "poster": "https://m.media-amazon.com/images/M/MV5BMTg1OTcwNjg4NF5BMl5BanBnXkFtZTgwMDU2MjkzNDE@._V1_.jpg",
-      "imdbRating": 9.5,
-      "rtRating": 96,
-      "cineScore": 5
-    },
-    {
-      "id": "tt7366338",
-      "title": "Chernobyl",
-      "year": 2019,
-      "poster": "https://m.media-amazon.com/images/M/MV5BNmE2ZTQ4MmUt.jpg",
-      "imdbRating": 9.4,
-      "rtRating": 95,
-      "cineScore": 5
-    },
-    {
-      "id": "tt5071412",
-      "title": "Ozark",
-      "year": 2017,
-      "poster": "https://m.media-amazon.com/images/M/MV5BZTYxYzdiNTUt.jpg",
-      "imdbRating": 8.5,
-      "rtRating": 82,
-      "cineScore": 4
+      "title": "Gladiator",
+      "imdb": "tt0172495",
+      "poster": "https://m.media-amazon.com/images/I/51A8l+FxFNL._AC_.jpg",
+      "description": "A former Roman General sets out to exact vengeance."
     }
   ]
 }
