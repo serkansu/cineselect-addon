@@ -1,19 +1,20 @@
 FROM node:18
 
-# Çalışma klasörü
+# Add working directory
 WORKDIR /app
 
-# package.json ve package-lock.json’u kopyala
-COPY package*.json ./
+# Copy both package.json and package-lock.json
+COPY package.json .
+COPY package-lock.json .
 
-# Bağımlılıkları yükle
+# Install dependencies
 RUN npm install
 
-# Kalan tüm dosyaları kopyala
+# Copy the rest of the files
 COPY . .
 
-# Portu aç
+# Expose the port your addon will run on
 EXPOSE 7010
 
-# Uygulamayı başlat
-CMD ["npm", "start"]
+# Start the addon
+CMD ["node", "index.js"]
