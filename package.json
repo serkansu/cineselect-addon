@@ -11,6 +11,9 @@
   "author": "serkan",
   "license": "MIT",
   "dependencies": {
-    "stremio-addon-sdk": "^0.15.3"
+    "stremio-addon-sdk": "1.6.10"
+  },
+  "devDependencies": {
+    "@types/stremio-addon-sdk": "1.6.12"
   }
 }
