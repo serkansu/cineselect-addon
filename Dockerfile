@@ -3,9 +3,8 @@ FROM node:18
 # Add working directory
 WORKDIR /app
 
-# Copy both package.json and package-lock.json
+# Copy only package.json
 COPY package.json .
-COPY package-lock.json .
 
 # Install dependencies
 RUN npm install
