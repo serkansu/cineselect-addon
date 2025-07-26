@@ -6,6 +6,7 @@ const manifest = {
   version: "1.0.0",
   name: "CineSelect",
   description: "Custom curated movie list from ss",
+  logo: "https://i.imgur.com/1pFhpVQ.png",  // ← BU KISMI KENDİ LOGONLA DEĞİŞTİRECEĞİZ
   resources: ["catalog"],
   types: ["movie"],
   catalogs: [
