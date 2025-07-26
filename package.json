@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "CineSelect Stremio Catalog Addon",
   "main": "index.js",
-  "type": "commonjs",
   "scripts": {
     "start": "node index.js"
   },
@@ -11,6 +10,6 @@
   "author": "serkan",
   "license": "MIT",
   "dependencies": {
-    "stremio-addon-sdk": "^0.17.2"
+    "stremio-addon-sdk": "0.17.2"
   }
 }
