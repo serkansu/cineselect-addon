@@ -5,7 +5,7 @@ const manifest = {
   id: "community.cineselect",
   version: "1.0.0",
   name: "CineSelect",
-  description: "Custom curated movie list from Görkem",
+  description: "Custom curated movie list from ss",
   resources: ["catalog"],
   types: ["movie"],
   catalogs: [
