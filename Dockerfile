@@ -1,15 +1,19 @@
 FROM node:18
 
+# Çalışma klasörü
 WORKDIR /app
 
-# Tüm dosyaları kopyala
-COPY . .
+# package.json ve package-lock.json’u kopyala
+COPY package*.json ./
 
 # Bağımlılıkları yükle
 RUN npm install
 
+# Kalan tüm dosyaları kopyala
+COPY . .
+
 # Portu aç
 EXPOSE 7010
 
-# Başlat
-CMD ["node", "index.js"]
+# Uygulamayı başlat
+CMD ["npm", "start"]
