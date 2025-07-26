@@ -1,19 +1,19 @@
 FROM node:18
 
-# Add working directory
+# Uygulama dizini
 WORKDIR /app
 
-# Copy only package.json
-COPY package.json .
+# Sadece package.json kopyalanıyor
+COPY package.json ./
 
-# Install dependencies
+# Bağımlılıkları yükle
 RUN npm install
 
-# Copy the rest of the files
+# Geri kalan tüm dosyaları kopyala
 COPY . .
 
-# Expose the port your addon will run on
+# Portu aç
 EXPOSE 7010
 
-# Start the addon
-CMD ["node", "index.js"]
+# Uygulamayı başlat
+CMD ["npm", "start"]
