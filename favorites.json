@@ -147,7 +147,7 @@
     "rt": 96,
     "cineselectRating": 9990,
     "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-    "type": "show"
+    "type": "series"
   },
   {
     "id": "tmdb1399",
@@ -157,7 +157,7 @@
     "rt": 0,
     "cineselectRating": 9501,
     "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-    "type": "show"
+    "type": "series"
   },
   {
     "id": "tmdb1407",
@@ -167,7 +167,7 @@
     "rt": 0,
     "cineselectRating": 9191,
     "poster": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
-    "type": "show"
+    "type": "series"
   },
   {
     "id": "tmdb2288",
@@ -177,7 +177,7 @@
     "rt": 0,
     "cineselectRating": 8990,
     "poster": "https://image.tmdb.org/t/p/w500/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
-    "type": "show"
+    "type": "series"
   },
   {
     "id": "tmdb42009",
@@ -187,7 +187,7 @@
     "rt": 0,
     "cineselectRating": 9260,
     "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
-    "type": "show"
+    "type": "series"
   },
   {
     "id": "tmdb4607",
@@ -197,7 +197,7 @@
     "rt": 80,
     "cineselectRating": 9431,
     "poster": "https://image.tmdb.org/t/p/w500/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
-    "type": "show"
+    "type": "series"
   },
   {
     "id": "tmdb60059",
@@ -207,7 +207,7 @@
     "rt": 0,
     "cineselectRating": 9960,
     "poster": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
-    "type": "show"
+    "type": "series"
   },
   {
     "id": "tmdb63351",
@@ -217,7 +217,7 @@
     "rt": 0,
     "cineselectRating": 9050,
     "poster": "https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
-    "type": "show"
+    "type": "series"
   },
   {
     "id": "tmdb69740",
@@ -227,7 +227,7 @@
     "rt": 0,
     "cineselectRating": 9040,
     "poster": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg",
-    "type": "show"
+    "type": "series"
   },
   {
     "id": "tmdb91725",
@@ -237,6 +237,6 @@
     "rt": 0,
     "cineselectRating": 9201,
     "poster": "https://image.tmdb.org/t/p/w500/bCGC6cAEKzm45J7SPsApAnp9mNx.jpg",
-    "type": "show"
+    "type": "series"
   }
 ]
