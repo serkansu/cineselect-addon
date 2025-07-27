@@ -25,21 +25,17 @@ const manifest = {
 
 const builder = new addonBuilder(manifest);
 
-// favorites.json dosyasından verileri oku
+// Read data from favorites.json
 let favorites = [];
 try {
   const data = fs.readFileSync("favorites.json", "utf8");
   favorites = JSON.parse(data).movies || [];
 } catch (err) {
-  console.error("favorites.json okunamadı:", err);
+  console.error("Could not read favorites.json:", err);
 }
 
-// movie vs. series ayrımı
+// Series detection by known IMDb IDs
 function isSeries(imdbId) {
-  // IMDb ID'ye göre ayırt edemeyiz, ama isimden ayırt etmek zor.
-  // Geçici çözüm: title içinde "S01", "Season", "Episode", vs. yoksa movie varsayalım.
-  // Ancak biz daha iyisini yapalım: dizileri `favorites.series` diye ayrı tutacağız (ileride).
-  // Şimdilik hardcode: diziler IMDb ID'leri ile filtrelenebilir.
   const knownSeries = [
     "tt0903747", // Breaking Bad
     "tt0944947", // Game of Thrones
@@ -55,11 +51,15 @@ function isSeries(imdbId) {
   return knownSeries.includes(imdbId);
 }
 
-// catalog handler
+// Catalog handler with pagination (skip/limit support)
 builder.defineCatalogHandler((args) => {
+  const skip = parseInt(args.extra?.skip || 0);
+  const limit = parseInt(args.extra?.limit || 100);
+
   if (args.id === "cine-select-movies") {
     const metas = favorites
       .filter(movie => !isSeries(movie.imdb))
+      .slice(skip, skip + limit)
       .map((movie) => ({
         id: movie.imdb,
         type: "movie",
@@ -73,6 +73,7 @@ builder.defineCatalogHandler((args) => {
   if (args.id === "cine-select-series") {
     const metas = favorites
       .filter(movie => isSeries(movie.imdb))
+      .slice(skip, skip + limit)
       .map((movie) => ({
         id: movie.imdb,
         type: "series",
@@ -86,5 +87,5 @@ builder.defineCatalogHandler((args) => {
   return Promise.resolve({ metas: [] });
 });
 
-// HTTP sunucusunu başlat (Render için şart!)
+// Start HTTP server (required for Render)
 serveHTTP(builder.getInterface(), { port: 7010 });
