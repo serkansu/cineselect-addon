@@ -25,41 +25,26 @@ const manifest = {
 
 const builder = new addonBuilder(manifest);
 
-// favorites.json dosyasından verileri oku
-let favorites = [];
+// favorites.json verilerini oku
+let movieList = [];
+let seriesList = [];
 try {
   const data = fs.readFileSync("favorites.json", "utf8");
-  favorites = JSON.parse(data).movies || [];
+  const parsed = JSON.parse(data);
+  movieList = parsed.movies || [];
+  seriesList = parsed.series || [];
 } catch (err) {
   console.error("favorites.json okunamadı:", err);
 }
 
-// movie vs. series ayrımı
-function isSeries(imdbId) {
-  // IMDb ID'ye göre ayırt edemeyiz, ama isimden ayırt etmek zor.
-  // Geçici çözüm: title içinde "S01", "Season", "Episode", vs. yoksa movie varsayalım.
-  // Ancak biz daha iyisini yapalım: dizileri favorites.series diye ayrı tutacağız (ileride).
-  // Şimdilik hardcode: diziler IMDb ID'leri ile filtrelenebilir.
-  const knownSeries = [
-    "tt0903747", // Breaking Bad
-    "tt0944947", // Game of Thrones
-    "tt1796960", // Homeland
-    "tt0455275", // Prison Break
-    "tt2085059", // Black Mirror
-    "tt0411008", // Lost
-    "tt3032476", // Better Call Saul
-    "tt2707408", // Narcos
-    "tt5071412", // Ozark
-    "tt7057856"  // The Spy
-  ];
-  return knownSeries.includes(imdbId);
-}
-
 // catalog handler
 builder.defineCatalogHandler((args) => {
+  const skip = parseInt(args.skip || 0);
+  const limit = parseInt(args.limit || 100); // default 100 taneye kadar göster
+
   if (args.id === "cine-select-movies") {
-    const metas = favorites
-      .filter(movie => !isSeries(movie.imdb))
+    const metas = movieList
+      .slice(skip, skip + limit)
       .map((movie) => ({
         id: movie.imdb,
         type: "movie",
@@ -71,14 +56,14 @@ builder.defineCatalogHandler((args) => {
   }
 
   if (args.id === "cine-select-series") {
-    const metas = favorites
-      .filter(movie => isSeries(movie.imdb))
-      .map((movie) => ({
-        id: movie.imdb,
+    const metas = seriesList
+      .slice(skip, skip + limit)
+      .map((series) => ({
+        id: series.imdb,
         type: "series",
-        name: movie.title,
-        poster: movie.poster || "",
-        description: movie.description || ""
+        name: series.title,
+        poster: series.poster || "",
+        description: series.description || ""
       }));
     return Promise.resolve({ metas });
   }
@@ -86,5 +71,5 @@ builder.defineCatalogHandler((args) => {
   return Promise.resolve({ metas: [] });
 });
 
-// HTTP sunucusunu başlat (Render için şart!)
+// HTTP sunucusu (Render için şart)
 serveHTTP(builder.getInterface(), { port: 7010 });
