@@ -1,242 +1,148 @@
-[
-  {
-    "id": "tmdb105",
-    "title": "Back to the Future",
-    "year": "1985",
-    "imdb": 8.5,
-    "rt": 93,
-    "cineselectRating": 9981,
-    "poster": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
-    "type": "movie"
-  },
-  {
-    "id": "tmdb1924",
-    "title": "Superman",
-    "year": "1978",
-    "imdb": 7.4,
-    "rt": 93,
-    "cineselectRating": 9671,
-    "poster": "https://image.tmdb.org/t/p/w500/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
-    "type": "movie"
-  },
-  {
-    "id": "tmdb197",
-    "title": "Braveheart",
-    "year": "1995",
-    "imdb": 8.3,
-    "rt": 76,
-    "cineselectRating": 9950,
-    "poster": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
-    "type": "movie"
-  },
-  {
-    "id": "tmdb218",
-    "title": "The Terminator",
-    "year": "1984",
-    "imdb": 8.1,
-    "rt": 100,
-    "cineselectRating": 9621,
-    "poster": "https://image.tmdb.org/t/p/w500/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
-    "type": "movie"
-  },
-  {
-    "id": "tmdb238",
-    "title": "The Godfather",
-    "year": "1972",
-    "imdb": 9.2,
-    "rt": 97,
-    "cineselectRating": 8870,
-    "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-    "type": "movie"
-  },
-  {
-    "id": "tmdb27205",
-    "title": "Inception",
-    "year": "2010",
-    "imdb": 8.8,
-    "rt": 87,
-    "cineselectRating": 3,
-    "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
-    "type": "movie"
-  },
-  {
-    "id": "tmdb281338",
-    "title": "War for the Planet of the Apes",
-    "year": "2017",
-    "imdb": 7.4,
-    "rt": 94,
-    "cineselectRating": 4171,
-    "poster": "https://image.tmdb.org/t/p/w500/mMA1qhBFgZX8O36qPPTC016kQl1.jpg",
-    "type": "movie"
-  },
-  {
-    "id": "tmdb348",
-    "title": "Alien",
-    "year": "1979",
-    "imdb": 8.5,
-    "rt": 93,
-    "cineselectRating": 9691,
-    "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
-    "type": "movie"
-  },
-  {
-    "id": "tmdb5503",
-    "title": "The Fugitive",
-    "year": "1993",
-    "imdb": 7.8,
-    "rt": 96,
-    "cineselectRating": 9131,
-    "poster": "https://image.tmdb.org/t/p/w500/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
-    "type": "movie"
-  },
-  {
-    "id": "tmdb597",
-    "title": "Titanic",
-    "year": "1997",
-    "imdb": 7.9,
-    "rt": 88,
-    "cineselectRating": 9371,
-    "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
-    "type": "movie"
-  },
-  {
-    "id": "tmdb603",
-    "title": "The Matrix",
-    "year": "1999",
-    "imdb": 8.7,
-    "rt": 83,
-    "cineselectRating": 9920,
-    "poster": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
-    "type": "movie"
-  },
-  {
-    "id": "tmdb61791",
-    "title": "Rise of the Planet of the Apes",
-    "year": "2011",
-    "imdb": 7.6,
-    "rt": 82,
-    "cineselectRating": 5000,
-    "poster": "https://image.tmdb.org/t/p/w500/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg",
-    "type": "movie"
-  },
-  {
-    "id": "tmdb680",
-    "title": "Pulp Fiction",
-    "year": "1994",
-    "imdb": 8.8,
-    "rt": 92,
-    "cineselectRating": 8770,
-    "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
-    "type": "movie"
-  },
-  {
-    "id": "tmdb853",
-    "title": "Enemy at the Gates",
-    "year": "2001",
-    "imdb": 7.5,
-    "rt": 54,
-    "cineselectRating": 9941,
-    "poster": "https://image.tmdb.org/t/p/w500/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg",
-    "type": "movie"
-  },
-  {
-    "id": "tmdb1396",
-    "title": "Breaking Bad",
-    "year": "2008",
-    "imdb": 9.5,
-    "rt": 96,
-    "cineselectRating": 9990,
-    "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-    "type": "series"
-  },
-  {
-    "id": "tmdb1399",
-    "title": "Game of Thrones",
-    "year": "2011",
-    "imdb": 9.2,
-    "rt": 0,
-    "cineselectRating": 9501,
-    "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-    "type": "series"
-  },
-  {
-    "id": "tmdb1407",
-    "title": "Homeland",
-    "year": "2011",
-    "imdb": 8.3,
-    "rt": 0,
-    "cineselectRating": 9191,
-    "poster": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
-    "type": "series"
-  },
-  {
-    "id": "tmdb2288",
-    "title": "Prison Break",
-    "year": "2005",
-    "imdb": 8.3,
-    "rt": 0,
-    "cineselectRating": 8990,
-    "poster": "https://image.tmdb.org/t/p/w500/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
-    "type": "series"
-  },
-  {
-    "id": "tmdb42009",
-    "title": "Black Mirror",
-    "year": "2011",
-    "imdb": 8.7,
-    "rt": 0,
-    "cineselectRating": 9260,
-    "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
-    "type": "series"
-  },
-  {
-    "id": "tmdb4607",
-    "title": "Lost",
-    "year": "2004",
-    "imdb": 8.3,
-    "rt": 80,
-    "cineselectRating": 9431,
-    "poster": "https://image.tmdb.org/t/p/w500/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
-    "type": "series"
-  },
-  {
-    "id": "tmdb60059",
-    "title": "Better Call Saul",
-    "year": "2015",
-    "imdb": 9.0,
-    "rt": 0,
-    "cineselectRating": 9960,
-    "poster": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
-    "type": "series"
-  },
-  {
-    "id": "tmdb63351",
-    "title": "Narcos",
-    "year": "2015",
-    "imdb": 8.7,
-    "rt": 0,
-    "cineselectRating": 9050,
-    "poster": "https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
-    "type": "series"
-  },
-  {
-    "id": "tmdb69740",
-    "title": "Ozark",
-    "year": "2017",
-    "imdb": 8.5,
-    "rt": 0,
-    "cineselectRating": 9040,
-    "poster": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg",
-    "type": "series"
-  },
-  {
-    "id": "tmdb91725",
-    "title": "The Spy",
-    "year": "2019",
-    "imdb": 7.9,
-    "rt": 0,
-    "cineselectRating": 9201,
-    "poster": "https://image.tmdb.org/t/p/w500/bCGC6cAEKzm45J7SPsApAnp9mNx.jpg",
-    "type": "series"
-  }
-]
+{
+  "movies": [
+    {
+      "title": "Back to the Future",
+      "imdb": "tt0088763",
+      "poster": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Superman",
+      "imdb": "tt0078346",
+      "poster": "https://image.tmdb.org/t/p/w500/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Braveheart",
+      "imdb": "tt0112573",
+      "poster": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "The Terminator",
+      "imdb": "tt0088247",
+      "poster": "https://image.tmdb.org/t/p/w500/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "The Godfather",
+      "imdb": "tt0068646",
+      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Inception",
+      "imdb": "tt1375666",
+      "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "War for the Planet of the Apes",
+      "imdb": "tt3450958",
+      "poster": "https://image.tmdb.org/t/p/w500/mMA1qhBFgZX8O36qPPTC016kQl1.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Alien",
+      "imdb": "tt0078748",
+      "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "The Fugitive",
+      "imdb": "tt0106977",
+      "poster": "https://image.tmdb.org/t/p/w500/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Titanic",
+      "imdb": "tt0120338",
+      "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "The Matrix",
+      "imdb": "tt0133093",
+      "poster": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Rise of the Planet of the Apes",
+      "imdb": "tt1318514",
+      "poster": "https://image.tmdb.org/t/p/w500/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Pulp Fiction",
+      "imdb": "tt0110912",
+      "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Enemy at the Gates",
+      "imdb": "tt0215750",
+      "poster": "https://image.tmdb.org/t/p/w500/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Breaking Bad",
+      "imdb": "tt0903747",
+      "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Game of Thrones",
+      "imdb": "tt0944947",
+      "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Homeland",
+      "imdb": "tt1796960",
+      "poster": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Prison Break",
+      "imdb": "tt0455275",
+      "poster": "https://image.tmdb.org/t/p/w500/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Black Mirror",
+      "imdb": "tt2085059",
+      "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Lost",
+      "imdb": "tt0411008",
+      "poster": "https://image.tmdb.org/t/p/w500/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Better Call Saul",
+      "imdb": "tt3032476",
+      "poster": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Narcos",
+      "imdb": "tt2707408",
+      "poster": "https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "Ozark",
+      "imdb": "tt5071412",
+      "poster": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg",
+      "description": "No description"
+    },
+    {
+      "title": "The Spy",
+      "imdb": "tt7057856",
+      "poster": "https://image.tmdb.org/t/p/w500/bCGC6cAEKzm45J7SPsApAnp9mNx.jpg",
+      "description": "No description"
+    }
+  ]
+}
