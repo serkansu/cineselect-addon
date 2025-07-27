@@ -40,9 +40,9 @@ try {
 // catalog handler
 builder.defineCatalogHandler((args) => {
   const skip = parseInt(args.skip || 0);
-  const limit = parseInt(args.limit || 100); // default 100 taneye kadar göster
 
   if (args.id === "cine-select-movies") {
+    const limit = parseInt(args.limit || movieList.length); // tümü
     const metas = movieList
       .slice(skip, skip + limit)
       .map((movie) => ({
@@ -56,6 +56,7 @@ builder.defineCatalogHandler((args) => {
   }
 
   if (args.id === "cine-select-series") {
+    const limit = parseInt(args.limit || seriesList.length); // tümü
     const metas = seriesList
       .slice(skip, skip + limit)
       .map((series) => ({
