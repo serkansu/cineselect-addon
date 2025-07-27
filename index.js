@@ -5,15 +5,19 @@ const manifest = {
   id: "community.cineselect",
   version: "1.0.0",
   name: "CineSelect",
-  description: "Custom curated movie list from ss",
-  logo: "https://raw.githubusercontent.com/serkansu/cineselect-addon/main/cineselect-logo.png",  // ← BU KISMI KENDİ LOGONLA DEĞİŞTİRECEĞİZ
+  description: "Custom curated movie list from Görkem",
   resources: ["catalog"],
-  types: ["movie"],
+  types: ["movie", "series"], // ✅ Burada movie + series ikisi de destekleniyor
   catalogs: [
     {
       type: "movie",
       id: "cineselect",
       name: "CineSelect Picks"
+    },
+    {
+      type: "series",
+      id: "cineselect",
+      name: "CineSelect Series"
     }
   ],
   idPrefixes: ["tt"]
@@ -38,10 +42,10 @@ builder.defineCatalogHandler((args) => {
 
   const metas = favorites.map((movie) => ({
     id: movie.imdb,
-    type: "movie",
+    type: args.type, // ✅ movie veya series hangisi istenmişse onu döndür
     name: movie.title,
     poster: movie.poster || "",
-    description: movie.description || "",
+    description: movie.description || ""
   }));
 
   return Promise.resolve({ metas });
