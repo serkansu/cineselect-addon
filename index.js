@@ -7,17 +7,17 @@ const manifest = {
   name: "CineSelect",
   description: "Custom curated movie list from Görkem",
   resources: ["catalog"],
-  types: ["movie", "series"], // ✅ Burada movie + series ikisi de destekleniyor
+  types: ["movie", "series"],
   catalogs: [
     {
       type: "movie",
-      id: "cineselect",
-      name: "CineSelect Picks"
+      id: "cine-select-movies",
+      name: ".cine-select movies"
     },
     {
       type: "series",
-      id: "cineselect",
-      name: "CineSelect Series"
+      id: "cine-select-series",
+      name: ".cine-select series"
     }
   ],
   idPrefixes: ["tt"]
@@ -34,21 +34,56 @@ try {
   console.error("favorites.json okunamadı:", err);
 }
 
+// movie vs. series ayrımı
+function isSeries(imdbId) {
+  // IMDb ID'ye göre ayırt edemeyiz, ama isimden ayırt etmek zor.
+  // Geçici çözüm: title içinde "S01", "Season", "Episode", vs. yoksa movie varsayalım.
+  // Ancak biz daha iyisini yapalım: dizileri `favorites.series` diye ayrı tutacağız (ileride).
+  // Şimdilik hardcode: diziler IMDb ID'leri ile filtrelenebilir.
+  const knownSeries = [
+    "tt0903747", // Breaking Bad
+    "tt0944947", // Game of Thrones
+    "tt1796960", // Homeland
+    "tt0455275", // Prison Break
+    "tt2085059", // Black Mirror
+    "tt0411008", // Lost
+    "tt3032476", // Better Call Saul
+    "tt2707408", // Narcos
+    "tt5071412", // Ozark
+    "tt7057856"  // The Spy
+  ];
+  return knownSeries.includes(imdbId);
+}
+
 // catalog handler
 builder.defineCatalogHandler((args) => {
-  if (args.id !== "cineselect") {
-    return Promise.resolve({ metas: [] });
+  if (args.id === "cine-select-movies") {
+    const metas = favorites
+      .filter(movie => !isSeries(movie.imdb))
+      .map((movie) => ({
+        id: movie.imdb,
+        type: "movie",
+        name: movie.title,
+        poster: movie.poster || "",
+        description: movie.description || ""
+      }));
+    return Promise.resolve({ metas });
   }
 
-  const metas = favorites.map((movie) => ({
-    id: movie.imdb,
-    type: args.type, // ✅ movie veya series hangisi istenmişse onu döndür
-    name: movie.title,
-    poster: movie.poster || "",
-    description: movie.description || ""
-  }));
+  if (args.id === "cine-select-series") {
+    const metas = favorites
+      .filter(movie => isSeries(movie.imdb))
+      .map((movie) => ({
+        id: movie.imdb,
+        type: "series",
+        name: movie.title,
+        poster: movie.poster || "",
+        description: movie.description || ""
+      }));
+    return Promise.resolve({ metas });
+  }
 
-  return Promise.resolve({ metas });
+  return Promise.resolve({ metas: [] });
 });
 
 // HTTP sunucusunu başlat (Render için şart!)
