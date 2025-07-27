@@ -42,7 +42,8 @@ builder.defineCatalogHandler((args) => {
   const skip = parseInt(args.skip || 0);
 
   if (args.id === "cine-select-movies") {
-    const limit = parseInt(args.limit || movieList.length); // tümü
+    const limit = args.limit ? parseInt(args.limit) : movieList.length;
+    console.log(`🎬 Movies → skip: ${skip}, limit: ${limit}, total: ${movieList.length}`);
     const metas = movieList
       .slice(skip, skip + limit)
       .map((movie) => ({
@@ -56,7 +57,8 @@ builder.defineCatalogHandler((args) => {
   }
 
   if (args.id === "cine-select-series") {
-    const limit = parseInt(args.limit || seriesList.length); // tümü
+    const limit = args.limit ? parseInt(args.limit) : seriesList.length;
+    console.log(`📺 Series → skip: ${skip}, limit: ${limit}, total: ${seriesList.length}`);
     const metas = seriesList
       .slice(skip, skip + limit)
       .map((series) => ({
