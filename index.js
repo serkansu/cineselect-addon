@@ -5,25 +5,26 @@ const manifest = {
   id: "community.cineselect",
   version: "1.0.0",
   name: "CineSelect",
-  description: "Custom curated movie list from Görkem",
+  description: "Custom curated movie and series list from Serkan",
   resources: ["catalog"],
   types: ["movie", "series"],
   catalogs: [
     {
       type: "movie",
       id: "cine-select-movies",
-      name: ".cine-select movies",
-      extraSupported: ["search", "skip"]
+      name: "🎬 CineSelect Movies",
+      extraSupported: ["skip"]
     },
     {
       type: "series",
       id: "cine-select-series",
-      name: ".cine-select series",
-      extraSupported: ["search", "skip"]
+      name: "📺 CineSelect Series",
+      extraSupported: ["skip"]
     }
   ],
   idPrefixes: ["tt"]
 };
+
 const builder = new addonBuilder(manifest);
 
 // favorites.json verilerini oku
@@ -34,6 +35,7 @@ try {
   const parsed = JSON.parse(data);
   movieList = parsed.movies || [];
   seriesList = parsed.series || [];
+  console.log(`🎬 ${movieList.length} movies, 📺 ${seriesList.length} series loaded.`);
 } catch (err) {
   console.error("favorites.json okunamadı:", err);
 }
@@ -41,14 +43,13 @@ try {
 // catalog handler
 builder.defineCatalogHandler((args) => {
   const skip = parseInt(args.skip || 0);
+  const limit = parseInt(args.limit || 100); // varsayılan 100 item göster
 
   if (args.id === "cine-select-movies") {
-    const limit = parseInt(args.limit || 1000);
-    console.log(`🎬 Movies → skip: ${skip}, limit: ${limit}, total: ${movieList.length}`);
     const metas = movieList
       .slice(skip, skip + limit)
       .map((movie) => ({
-        id: movie.imdb,
+        id: movie.imdb.startsWith("tt") ? movie.imdb : "tt" + movie.imdb.replace(/\D/g, ""), // IMDb ID formatı düzeltme
         type: "movie",
         name: movie.title,
         poster: movie.poster || "",
@@ -58,12 +59,10 @@ builder.defineCatalogHandler((args) => {
   }
 
   if (args.id === "cine-select-series") {
-    const limit = parseInt(args.limit || 1000);
-    console.log(`📺 Series → skip: ${skip}, limit: ${limit}, total: ${seriesList.length}`);
     const metas = seriesList
       .slice(skip, skip + limit)
       .map((series) => ({
-        id: series.imdb,
+        id: series.imdb.startsWith("tt") ? series.imdb : "tt" + series.imdb.replace(/\D/g, ""),
         type: "series",
         name: series.title,
         poster: series.poster || "",
@@ -75,5 +74,4 @@ builder.defineCatalogHandler((args) => {
   return Promise.resolve({ metas: [] });
 });
 
-// HTTP sunucusu (Render için şart)
 serveHTTP(builder.getInterface(), { port: 7010 });
