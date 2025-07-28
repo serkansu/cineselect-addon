@@ -1,408 +1,408 @@
 {
-    "movies": [
-        {
-            "title": "The Matrix",
-            "imdb": "8.7",
-            "poster": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Léon: The Professional",
-            "imdb": "8.5",
-            "poster": "https://image.tmdb.org/t/p/w500/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Back to the Future",
-            "imdb": "8.5",
-            "poster": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "The Prestige",
-            "imdb": "8.5",
-            "poster": "https://image.tmdb.org/t/p/w500/a03qYIZM0zkEutN5JRZddTBmQqY.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Shutter Island",
-            "imdb": "8.2",
-            "poster": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "X-Men: Days of Future Past",
-            "imdb": "7.9",
-            "poster": "https://image.tmdb.org/t/p/w500/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Forrest Gump",
-            "imdb": "8.8",
-            "poster": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Rocky",
-            "imdb": "8.1",
-            "poster": "https://image.tmdb.org/t/p/w500/8kEun6U9hTddM7NEfLLCGQKU2Mp.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Rocky II",
-            "imdb": "7.3",
-            "poster": "https://image.tmdb.org/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Rocky III",
-            "imdb": "6.8",
-            "poster": "https://image.tmdb.org/t/p/w500/9jS3wG3cNSEu8sVUFAFQ8exyaaH.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Rocky IV",
-            "imdb": "6.9",
-            "poster": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Interstellar",
-            "imdb": "8.7",
-            "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Back to the Future Part II",
-            "imdb": "7.8",
-            "poster": "https://image.tmdb.org/t/p/w500/YBawEsTkUZBDajKbd5LiHkmMGf.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "The Empire Strikes Back",
-            "imdb": "8.7",
-            "poster": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Superman",
-            "imdb": "7.4",
-            "poster": "https://image.tmdb.org/t/p/w500/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Back to the Future Part III",
-            "imdb": "7.5",
-            "poster": "https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Braveheart",
-            "imdb": "8.3",
-            "poster": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "3 Idiots",
-            "imdb": "8.4",
-            "poster": "https://image.tmdb.org/t/p/w500/66A9MqXOyVFCssoloscw79z8Tew.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Ratatouille",
-            "imdb": "8.1",
-            "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Stargate",
-            "imdb": "7.0",
-            "poster": "https://image.tmdb.org/t/p/w500/63Ol9NX5E1OEsH7CHivNEvJMdky.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "The Terminator",
-            "imdb": "8.1",
-            "poster": "https://image.tmdb.org/t/p/w500/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "The Godfather",
-            "imdb": "9.2",
-            "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Whiplash",
-            "imdb": "8.5",
-            "poster": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Inception",
-            "imdb": "8.8",
-            "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "The Silence of the Lambs",
-            "imdb": "8.6",
-            "poster": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "The Shawshank Redemption",
-            "imdb": "9.3",
-            "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Amadeus",
-            "imdb": "8.4",
-            "poster": "https://image.tmdb.org/t/p/w500/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "War for the Planet of the Apes",
-            "imdb": "7.4",
-            "poster": "https://image.tmdb.org/t/p/w500/mMA1qhBFgZX8O36qPPTC016kQl1.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "Alien",
-            "imdb": "8.5",
-            "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
-            "description": "No description available."
-        },
-        {
-            "title": "The Truman Show",
-            "imdb": "8.2",
-            "poster": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
-            "description": "No description available."
-        },
-        {
-          "title": "12 Angry Men",
-          "imdb": "9.0",
-          "poster": "https://image.tmdb.org/t/p/w500/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "The Pianist",
-          "imdb": "8.5",
-          "poster": "https://image.tmdb.org/t/p/w500/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "The Good, the Bad and the Ugly",
-          "imdb": "8.8",
-          "poster": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Joker",
-          "imdb": "8.3",
-          "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "The Dark Knight Rises",
-          "imdb": "8.4",
-          "poster": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "The Green Mile",
-          "imdb": "8.6",
-          "poster": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Reservoir Dogs",
-          "imdb": "8.3",
-          "poster": "https://image.tmdb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Fight Club",
-          "imdb": "8.8",
-          "poster": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "The Fugitive",
-          "imdb": "7.8",
-          "poster": "https://image.tmdb.org/t/p/w500/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Die Hard",
-          "imdb": "8.2",
-          "poster": "https://image.tmdb.org/t/p/w500/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Starship Troopers",
-          "imdb": "7.3",
-          "poster": "https://image.tmdb.org/t/p/w500/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Jaws",
-          "imdb": "8.1",
-          "poster": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Titanic",
-          "imdb": "7.9",
-          "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "The Matrix",
-          "imdb": "8.7",
-          "poster": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Rise of the Planet of the Apes",
-          "imdb": "7.6",
-          "poster": "https://image.tmdb.org/t/p/w500/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Life Is Beautiful",
-          "imdb": "8.6",
-          "poster": "https://image.tmdb.org/t/p/w500/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Catch Me If You Can",
-          "imdb": "8.1",
-          "poster": "https://image.tmdb.org/t/p/w500/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Requiem for a Dream",
-          "imdb": "8.3",
-          "poster": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Pulp Fiction",
-          "imdb": "8.8",
-          "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "V for Vendetta",
-          "imdb": "7.6",
-          "poster": "https://image.tmdb.org/t/p/w500/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Se7en",
-          "imdb": "8.6",
-          "poster": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Raiders of the Lost Ark",
-          "imdb": "8.4",
-          "poster": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Enemy at the Gates",
-          "imdb": "7.5",
-          "poster": "https://image.tmdb.org/t/p/w500/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Saving Private Ryan",
-          "imdb": "8.6",
-          "poster": "https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Heat",
-          "imdb": "8.3",
-          "poster": "https://image.tmdb.org/t/p/w500/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Gladiator",
-          "imdb": "8.5",
-          "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "The Incredibles",
-          "imdb": "8.0",
-          "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
-          "description": "No description available."
-        }
-      ],
-      "series": [
-        {
-          "title": "Breaking Bad",
-          "imdb": "9.5",
-          "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Game of Thrones",
-          "imdb": "9.2",
-          "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Homeland",
-          "imdb": "8.3",
-          "poster": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Prison Break",
-          "imdb": "8.3",
-          "poster": "https://image.tmdb.org/t/p/w500/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Black Mirror",
-          "imdb": "8.7",
-          "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Lost",
-          "imdb": "8.3",
-          "poster": "https://image.tmdb.org/t/p/w500/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Better Call Saul",
-          "imdb": "9.0",
-          "poster": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Narcos",
-          "imdb": "8.7",
-          "poster": "https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "Ozark",
-          "imdb": "8.5",
-          "poster": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg",
-          "description": "No description available."
-        },
-        {
-          "title": "The Spy",
-          "imdb": "7.9",
-          "poster": "https://image.tmdb.org/t/p/w500/bCGC6cAEKzm45J7SPsApAnp9mNx.jpg",
-          "description": "No description available."
-        }
-      ]
+  "movies": [
+    {
+      "title": "The Matrix",
+      "imdb": "tt6443dbd",
+      "poster": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "L\u00e9on: The Professional",
+      "imdb": "tt896c199",
+      "poster": "https://image.tmdb.org/t/p/w500/bxB2q91nKYp8JNzqE7t7TWBVupB.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Back to the Future",
+      "imdb": "tt7ec6c95",
+      "poster": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Prestige",
+      "imdb": "tt117cb79",
+      "poster": "https://image.tmdb.org/t/p/w500/a03qYIZM0zkEutN5JRZddTBmQqY.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Shutter Island",
+      "imdb": "tt4cdc6f3",
+      "poster": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "X-Men: Days of Future Past",
+      "imdb": "tt70424e4",
+      "poster": "https://image.tmdb.org/t/p/w500/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Forrest Gump",
+      "imdb": "ttb2bb80e",
+      "poster": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Rocky",
+      "imdb": "tt8f71218",
+      "poster": "https://image.tmdb.org/t/p/w500/8kEun6U9hTddM7NEfLLCGQKU2Mp.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Rocky II",
+      "imdb": "tt8184aca",
+      "poster": "https://image.tmdb.org/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Rocky III",
+      "imdb": "tt4544369",
+      "poster": "https://image.tmdb.org/t/p/w500/9jS3wG3cNSEu8sVUFAFQ8exyaaH.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Rocky IV",
+      "imdb": "tt70d25c2",
+      "poster": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Interstellar",
+      "imdb": "tt1d416d6",
+      "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Back to the Future Part II",
+      "imdb": "tt0fda4b0",
+      "poster": "https://image.tmdb.org/t/p/w500/YBawEsTkUZBDajKbd5LiHkmMGf.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Empire Strikes Back",
+      "imdb": "ttde1e2aa",
+      "poster": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Superman",
+      "imdb": "ttd969c55",
+      "poster": "https://image.tmdb.org/t/p/w500/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Back to the Future Part III",
+      "imdb": "ttf0f91e3",
+      "poster": "https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Braveheart",
+      "imdb": "tt52a9665",
+      "poster": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "3 Idiots",
+      "imdb": "tt8b1b712",
+      "poster": "https://image.tmdb.org/t/p/w500/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Ratatouille",
+      "imdb": "ttecb7443",
+      "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Stargate",
+      "imdb": "tt61c8240",
+      "poster": "https://image.tmdb.org/t/p/w500/63Ol9NX5E1OEsH7CHivNEvJMdky.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Terminator",
+      "imdb": "tt7a703d9",
+      "poster": "https://image.tmdb.org/t/p/w500/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Godfather",
+      "imdb": "tt6f83314",
+      "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Whiplash",
+      "imdb": "ttb5ae9ff",
+      "poster": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Inception",
+      "imdb": "ttb3951b5",
+      "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Silence of the Lambs",
+      "imdb": "ttd8b1e47",
+      "poster": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Shawshank Redemption",
+      "imdb": "tt5eef001",
+      "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Amadeus",
+      "imdb": "tt10faaf6",
+      "poster": "https://image.tmdb.org/t/p/w500/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "War for the Planet of the Apes",
+      "imdb": "tt906000e",
+      "poster": "https://image.tmdb.org/t/p/w500/mMA1qhBFgZX8O36qPPTC016kQl1.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Alien",
+      "imdb": "tt26ff94c",
+      "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Truman Show",
+      "imdb": "tte51e43c",
+      "poster": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "12 Angry Men",
+      "imdb": "tt2c9c149",
+      "poster": "https://image.tmdb.org/t/p/w500/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Pianist",
+      "imdb": "tt68eeb01",
+      "poster": "https://image.tmdb.org/t/p/w500/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Good, the Bad and the Ugly",
+      "imdb": "tt364cf7d",
+      "poster": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Joker",
+      "imdb": "tte0d8194",
+      "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Dark Knight Rises",
+      "imdb": "tt1f3aae8",
+      "poster": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Green Mile",
+      "imdb": "tt7c3f5c3",
+      "poster": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Reservoir Dogs",
+      "imdb": "tt1933918",
+      "poster": "https://image.tmdb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Fight Club",
+      "imdb": "tt7d3f068",
+      "poster": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Fugitive",
+      "imdb": "tt0edac54",
+      "poster": "https://image.tmdb.org/t/p/w500/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Die Hard",
+      "imdb": "tt482996e",
+      "poster": "https://image.tmdb.org/t/p/w500/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Starship Troopers",
+      "imdb": "tt34b08a0",
+      "poster": "https://image.tmdb.org/t/p/w500/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Jaws",
+      "imdb": "tt006b297",
+      "poster": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Titanic",
+      "imdb": "ttd34658a",
+      "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Matrix",
+      "imdb": "tt43a6bdf",
+      "poster": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Rise of the Planet of the Apes",
+      "imdb": "ttc1b75a7",
+      "poster": "https://image.tmdb.org/t/p/w500/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Life Is Beautiful",
+      "imdb": "tte41d197",
+      "poster": "https://image.tmdb.org/t/p/w500/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Catch Me If You Can",
+      "imdb": "tt4cab479",
+      "poster": "https://image.tmdb.org/t/p/w500/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Requiem for a Dream",
+      "imdb": "tt0f58772",
+      "poster": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Pulp Fiction",
+      "imdb": "ttbdd7d82",
+      "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "V for Vendetta",
+      "imdb": "ttd932816",
+      "poster": "https://image.tmdb.org/t/p/w500/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Se7en",
+      "imdb": "tt311cc97",
+      "poster": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Raiders of the Lost Ark",
+      "imdb": "ttffa406d",
+      "poster": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Enemy at the Gates",
+      "imdb": "tt5748b4c",
+      "poster": "https://image.tmdb.org/t/p/w500/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Saving Private Ryan",
+      "imdb": "tt4aefb1c",
+      "poster": "https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Heat",
+      "imdb": "tt63014a3",
+      "poster": "https://image.tmdb.org/t/p/w500/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Gladiator",
+      "imdb": "tt7f64eba",
+      "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Incredibles",
+      "imdb": "tt8679d6a",
+      "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+      "description": "No description available."
     }
+  ],
+  "series": [
+    {
+      "title": "Breaking Bad",
+      "imdb": "tt63fd243",
+      "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Game of Thrones",
+      "imdb": "tt4885f8e",
+      "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Homeland",
+      "imdb": "tte670c94",
+      "poster": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Prison Break",
+      "imdb": "ttb73843c",
+      "poster": "https://image.tmdb.org/t/p/w500/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Black Mirror",
+      "imdb": "tt444b751",
+      "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Lost",
+      "imdb": "tte852fb4",
+      "poster": "https://image.tmdb.org/t/p/w500/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Better Call Saul",
+      "imdb": "tt1ff4560",
+      "poster": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Narcos",
+      "imdb": "tt1a4e3c3",
+      "poster": "https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Ozark",
+      "imdb": "ttca4a29b",
+      "poster": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Spy",
+      "imdb": "tt2521257",
+      "poster": "https://image.tmdb.org/t/p/w500/bCGC6cAEKzm45J7SPsApAnp9mNx.jpg",
+      "description": "No description available."
+    }
+  ]
+}
