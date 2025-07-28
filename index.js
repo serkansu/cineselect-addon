@@ -13,24 +13,17 @@ const manifest = {
       type: "movie",
       id: "cine-select-movies",
       name: ".cine-select movies",
-      extra: [
-        { name: "skip", isRequired: false },
-        { name: "limit", isRequired: false }
-      ]
+      extraSupported: ["search", "skip"]
     },
     {
       type: "series",
       id: "cine-select-series",
       name: ".cine-select series",
-      extra: [
-        { name: "skip", isRequired: false },
-        { name: "limit", isRequired: false }
-      ]
+      extraSupported: ["search", "skip"]
     }
   ],
   idPrefixes: ["tt"]
 };
-
 const builder = new addonBuilder(manifest);
 
 // favorites.json verilerini oku
