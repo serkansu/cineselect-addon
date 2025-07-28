@@ -3,7 +3,7 @@
     {
       "title": "The Matrix",
       "imdb": "tt0133093",
-      "poster": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+      "poster": "",
       "description": "No description available."
     },
     {
@@ -345,6 +345,12 @@
   ],
   "series": [
     {
+      "title": "The Last of Us",
+      "imdb": "tt3581920",
+      "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+      "description": "No description available."
+    },
+    {
       "title": "Breaking Bad",
       "imdb": "tt0903747",
       "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
@@ -357,9 +363,21 @@
       "description": "No description available."
     },
     {
+      "title": "Dexter",
+      "imdb": "tt0773262",
+      "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+      "description": "No description available."
+    },
+    {
       "title": "Homeland",
       "imdb": "tt1796960",
       "poster": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "South Park",
+      "imdb": "tt0121955",
+      "poster": "https://image.tmdb.org/t/p/w500/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg",
       "description": "No description available."
     },
     {
@@ -369,9 +387,33 @@
       "description": "No description available."
     },
     {
+      "title": "Dexter: Resurrection",
+      "imdb": "tt33043892",
+      "poster": "https://image.tmdb.org/t/p/w500/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Human Planet",
+      "imdb": "tt1806234",
+      "poster": "https://image.tmdb.org/t/p/w500/bjhP5yIeyWMRMxJdLjBuiIf255X.jpg",
+      "description": "No description available."
+    },
+    {
       "title": "Black Mirror",
       "imdb": "tt2085059",
       "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Mr. Bean",
+      "imdb": "tt0096657",
+      "poster": "https://image.tmdb.org/t/p/w500/pUNQV35kDaKuejnXGNiUeEBurNE.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "The Simpsons",
+      "imdb": "tt0096697",
+      "poster": "https://image.tmdb.org/t/p/w500/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
       "description": "No description available."
     },
     {
@@ -381,9 +423,21 @@
       "description": "No description available."
     },
     {
+      "title": "Cosmos",
+      "imdb": "tt2395695",
+      "poster": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+      "description": "No description available."
+    },
+    {
       "title": "Better Call Saul",
       "imdb": "tt3032476",
       "poster": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Mr. Robot",
+      "imdb": "tt4158110",
+      "poster": "https://image.tmdb.org/t/p/w500/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
       "description": "No description available."
     },
     {
@@ -393,15 +447,39 @@
       "description": "No description available."
     },
     {
+      "title": "The Crown",
+      "imdb": "tt4786824",
+      "poster": "https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg",
+      "description": "No description available."
+    },
+    {
       "title": "Ozark",
       "imdb": "tt5071412",
       "poster": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg",
       "description": "No description available."
     },
     {
+      "title": "Dark",
+      "imdb": "tt5753856",
+      "poster": "https://image.tmdb.org/t/p/w500/1DLjjvSWMYo17B7wuz6YikB96hH.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Chernobyl",
+      "imdb": "tt7366338",
+      "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+      "description": "No description available."
+    },
+    {
       "title": "The Spy",
       "imdb": "tt5952634",
       "poster": "https://image.tmdb.org/t/p/w500/bCGC6cAEKzm45J7SPsApAnp9mNx.jpg",
+      "description": "No description available."
+    },
+    {
+      "title": "Severance",
+      "imdb": "tt11280740",
+      "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
       "description": "No description available."
     }
   ]
