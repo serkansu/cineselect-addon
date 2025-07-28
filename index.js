@@ -2,24 +2,24 @@ const { addonBuilder, serveHTTP } = require("stremio-addon-sdk");
 const fs = require("fs");
 
 const manifest = {
-  id: "community.serkansfavorites",
+  id: "community.serkanswatchagain",
   version: "1.0.0",
-  name: "Serkan's Favorites",
-  description: "A collection of movies worth watching again and again.",
+  name: "Serkan's Watch Again Movies & Series",
+  description: "A handpicked library of films and series that deserve a second (or third!) viewing. These are not just favorites — they are timeless rewatchables curated by Serkan himself. Perfect for movie nights, nostalgic weekends, or discovering gems worth looping forever.",
   logo: "https://raw.githubusercontent.com/serkansu/cineselect-addon/main/cineselect-logo.png",
   resources: ["catalog"],
   types: ["movie", "series"],
   catalogs: [
     {
       type: "movie",
-      id: "serkan-favorite-movies",
-      name: "🎬 Serkan's Favorite Movies",
+      id: "serkan-watchagain-movies",
+      name: "🎬 Serkan's Watch Again Movies",
       extraSupported: ["skip"]
     },
     {
       type: "series",
-      id: "serkan-favorite-series",
-      name: "📺 Serkan's Favorite Series",
+      id: "serkan-watchagain-series",
+      name: "📺 Serkan's Watch Again Series",
       extraSupported: ["skip"]
     }
   ],
@@ -46,7 +46,7 @@ builder.defineCatalogHandler((args) => {
   const skip = parseInt(args.skip || 0);
   const limit = parseInt(args.limit || 100);
 
-  if (args.id === "serkan-favorite-movies") {
+  if (args.id === "serkan-watchagain-movies") {
     const metas = movieList
       .slice(skip, skip + limit)
       .map((movie) => ({
@@ -59,7 +59,7 @@ builder.defineCatalogHandler((args) => {
     return Promise.resolve({ metas });
   }
 
-  if (args.id === "serkan-favorite-series") {
+  if (args.id === "serkan-watchagain-series") {
     const metas = seriesList
       .slice(skip, skip + limit)
       .map((series) => ({
