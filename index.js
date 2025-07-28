@@ -12,12 +12,20 @@ const manifest = {
     {
       type: "movie",
       id: "cine-select-movies",
-      name: ".cine-select movies"
+      name: ".cine-select movies",
+      extra: [
+        { name: "skip", isRequired: false },
+        { name: "limit", isRequired: false }
+      ]
     },
     {
       type: "series",
       id: "cine-select-series",
-      name: ".cine-select series"
+      name: ".cine-select series",
+      extra: [
+        { name: "skip", isRequired: false },
+        { name: "limit", isRequired: false }
+      ]
     }
   ],
   idPrefixes: ["tt"]
