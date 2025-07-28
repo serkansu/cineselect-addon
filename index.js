@@ -2,23 +2,24 @@ const { addonBuilder, serveHTTP } = require("stremio-addon-sdk");
 const fs = require("fs");
 
 const manifest = {
-  id: "community.cineselect",
+  id: "community.serkansfavorites",
   version: "1.0.0",
-  name: "CineSelect",
-  description: "Custom curated movie and series list from Serkan",
+  name: "Serkan's Favorites",
+  description: "A collection of movies worth watching again and again.",
+  logo: "https://raw.githubusercontent.com/serkansu/cineselect-addon/main/cineselect-logo.png",
   resources: ["catalog"],
   types: ["movie", "series"],
   catalogs: [
     {
       type: "movie",
-      id: "cine-select-movies",
-      name: "🎬 CineSelect Movies",
+      id: "serkan-favorite-movies",
+      name: "🎬 Serkan's Favorite Movies",
       extraSupported: ["skip"]
     },
     {
       type: "series",
-      id: "cine-select-series",
-      name: "📺 CineSelect Series",
+      id: "serkan-favorite-series",
+      name: "📺 Serkan's Favorite Series",
       extraSupported: ["skip"]
     }
   ],
@@ -43,13 +44,13 @@ try {
 // catalog handler
 builder.defineCatalogHandler((args) => {
   const skip = parseInt(args.skip || 0);
-  const limit = parseInt(args.limit || 100); // varsayılan 100 item göster
+  const limit = parseInt(args.limit || 100);
 
-  if (args.id === "cine-select-movies") {
+  if (args.id === "serkan-favorite-movies") {
     const metas = movieList
       .slice(skip, skip + limit)
       .map((movie) => ({
-        id: movie.imdb.startsWith("tt") ? movie.imdb : "tt" + movie.imdb.replace(/\D/g, ""), // IMDb ID formatı düzeltme
+        id: movie.imdb.startsWith("tt") ? movie.imdb : "tt" + movie.imdb.replace(/\D/g, ""),
         type: "movie",
         name: movie.title,
         poster: movie.poster || "",
@@ -58,7 +59,7 @@ builder.defineCatalogHandler((args) => {
     return Promise.resolve({ metas });
   }
 
-  if (args.id === "cine-select-series") {
+  if (args.id === "serkan-favorite-series") {
     const metas = seriesList
       .slice(skip, skip + limit)
       .map((series) => ({
@@ -74,4 +75,5 @@ builder.defineCatalogHandler((args) => {
   return Promise.resolve({ metas: [] });
 });
 
+// HTTP sunucusu (Render veya yerel çalışma için)
 serveHTTP(builder.getInterface(), { port: 7010 });
