@@ -2,16 +2,6 @@
     "movies": [
         {
             "cineselectRating": 5000,
-            "id": "tmdb10068",
-            "imdb": 0.0,
-            "year": "1986",
-            "rt": 0,
-            "type": "movie",
-            "poster": "https://image.tmdb.org/t/p/w500/aE1iunrgO8UHfoXKJcjCy4Ih17n.jpg",
-            "title": "Nine 1/2 Weeks"
-        },
-        {
-            "cineselectRating": 5000,
             "id": "tmdb10326",
             "imdb": 6.4,
             "rt": 54,
