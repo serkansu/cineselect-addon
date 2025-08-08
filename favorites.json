@@ -1,1816 +1,1816 @@
 {
     "movies": [
         {
+            "type": "movie",
+            "cineselectRating": 5000,
+            "year": "2023",
             "imdb": "tt21867434",
             "rt": 97,
-            "poster": "https://image.tmdb.org/t/p/w500/ePWKQzOnwabMcJsWYWIiy5p1Ofr.jpg",
             "id": "tmdb1016084",
-            "cineselectRating": 5000,
-            "title": "BlackBerry",
-            "year": "2023",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/ePWKQzOnwabMcJsWYWIiy5p1Ofr.jpg",
+            "title": "BlackBerry"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1992",
             "imdb": "tt0104291",
             "rt": 54,
-            "poster": "https://image.tmdb.org/t/p/w500/eKbD77BEhhBmFD7ZE9VTi9o8r2K.jpg",
             "id": "tmdb10326",
-            "cineselectRating": 5000,
-            "title": "Forever Young",
-            "year": "1992",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/eKbD77BEhhBmFD7ZE9VTi9o8r2K.jpg",
+            "title": "Forever Young"
         },
         {
+            "type": "movie",
             "imdb": "tt0088763",
-            "poster": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+            "year": "1985",
+            "cineselectRating": 9981,
             "rt": 93,
             "id": "tmdb105",
-            "cineselectRating": 9981,
-            "title": "Back to the Future",
-            "year": "1985",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/vN5B5WgYscRGcQpVhHl6p9DDTP0.jpg",
+            "title": "Back to the Future"
         },
         {
+            "cineselectRating": 911,
+            "type": "movie",
+            "year": "1979",
             "imdb": "tt0079116",
-            "poster": "https://image.tmdb.org/t/p/w500/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg",
             "rt": 0,
             "id": "tmdb10734",
-            "cineselectRating": 911,
-            "title": "Escape from Alcatraz",
-            "year": "1979",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg",
+            "title": "Escape from Alcatraz"
         },
         {
+            "cineselectRating": 7291,
+            "type": "movie",
+            "year": "2013",
             "imdb": "tt1951261",
-            "poster": "https://image.tmdb.org/t/p/w500/vtxuPWkdllLNLVyGjKYa267ntuH.jpg",
             "rt": 0,
             "id": "tmdb109439",
-            "cineselectRating": 7291,
-            "title": "The Hangover Part III",
-            "year": "2013",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/vtxuPWkdllLNLVyGjKYa267ntuH.jpg",
+            "title": "The Hangover Part III"
         },
         {
+            "cineselectRating": 9711,
             "imdb": "tt0482571",
-            "poster": "https://image.tmdb.org/t/p/w500/a03qYIZM0zkEutN5JRZddTBmQqY.jpg",
+            "year": "2006",
+            "type": "movie",
             "rt": 77,
             "id": "tmdb1124",
-            "cineselectRating": 9711,
-            "title": "The Prestige",
-            "year": "2006",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/a03qYIZM0zkEutN5JRZddTBmQqY.jpg",
+            "title": "The Prestige"
         },
         {
+            "cineselectRating": 9571,
             "imdb": "tt1130884",
-            "poster": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+            "year": "2010",
+            "type": "movie",
             "rt": 69,
             "id": "tmdb11324",
-            "cineselectRating": 9571,
-            "title": "Shutter Island",
-            "year": "2010",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/nrmXQ0zcZUL8jFLrakWc90IR8z9.jpg",
+            "title": "Shutter Island"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1987",
             "imdb": "tt0094226",
-            "poster": "https://image.tmdb.org/t/p/w500/8BquGK22zCcsmBWiaIakaaPpSZb.jpg",
             "rt": 83,
             "id": "tmdb117",
-            "cineselectRating": 5000,
-            "title": "The Untouchables",
-            "year": "1987",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/8BquGK22zCcsmBWiaIakaaPpSZb.jpg",
+            "title": "The Untouchables"
         },
         {
+            "cineselectRating": 9711,
             "imdb": "tt1877832",
-            "poster": "https://image.tmdb.org/t/p/w500/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+            "year": "2014",
+            "type": "movie",
             "rt": 90,
             "id": "tmdb127585",
-            "cineselectRating": 9711,
-            "title": "X-Men: Days of Future Past",
-            "year": "2014",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/tYfijzolzgoMOtegh1Y7j2Enorg.jpg",
+            "title": "X-Men: Days of Future Past"
         },
         {
+            "type": "movie",
             "imdb": "tt0266425",
-            "poster": "https://image.tmdb.org/t/p/w500/Onqn8XXyhANuy1LIL7AIN6unQk.jpg",
+            "year": "2001",
+            "cineselectRating": 9651,
             "rt": 0,
             "id": "tmdb12900",
-            "cineselectRating": 9651,
-            "title": "Conspiracy",
-            "year": "2001",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/Onqn8XXyhANuy1LIL7AIN6unQk.jpg",
+            "title": "Conspiracy"
         },
         {
+            "cineselectRating": 9121,
             "imdb": "tt0109830",
-            "poster": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+            "year": "1994",
+            "type": "movie",
             "rt": 75,
             "id": "tmdb13",
-            "cineselectRating": 9121,
-            "title": "Forrest Gump",
-            "year": "1994",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/arw2vcBveWOVZr6pxd9XTd1TdQa.jpg",
+            "title": "Forrest Gump"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1976",
             "imdb": "tt0075148",
-            "poster": "https://image.tmdb.org/t/p/w500/8kEun6U9hTddM7NEfLLCGQKU2Mp.jpg",
             "rt": 93,
             "id": "tmdb1366",
-            "cineselectRating": 5000,
-            "title": "Rocky",
-            "year": "1976",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/8kEun6U9hTddM7NEfLLCGQKU2Mp.jpg",
+            "title": "Rocky"
         },
         {
             "imdb": "tt0079817",
-            "rt": 70,
-            "poster": "https://image.tmdb.org/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
-            "id": "tmdb1367",
-            "cineselectRating": 9899,
-            "title": "Rocky II",
+            "type": "movie",
             "year": "1979",
-            "type": "movie"
+            "cineselectRating": 9899,
+            "rt": 70,
+            "id": "tmdb1367",
+            "poster": "https://image.tmdb.org/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
+            "title": "Rocky II"
         },
         {
+            "type": "movie",
+            "cineselectRating": 5000,
+            "year": "1982",
             "imdb": "tt0083944",
             "rt": 86,
-            "poster": "https://image.tmdb.org/t/p/w500/bGIDYYOX7Cj1o7W8JiwHd3TzJVw.jpg",
             "id": "tmdb1368",
-            "cineselectRating": 5000,
-            "title": "First Blood",
-            "year": "1982",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/bGIDYYOX7Cj1o7W8JiwHd3TzJVw.jpg",
+            "title": "First Blood"
         },
         {
             "imdb": "tt0084602",
-            "rt": 65,
-            "poster": "https://image.tmdb.org/t/p/w500/9jS3wG3cNSEu8sVUFAFQ8exyaaH.jpg",
-            "id": "tmdb1371",
-            "cineselectRating": 9898,
-            "title": "Rocky III",
+            "type": "movie",
             "year": "1982",
-            "type": "movie"
+            "cineselectRating": 9898,
+            "rt": 65,
+            "id": "tmdb1371",
+            "poster": "https://image.tmdb.org/t/p/w500/9jS3wG3cNSEu8sVUFAFQ8exyaaH.jpg",
+            "title": "Rocky III"
         },
         {
             "imdb": "tt0089927",
-            "rt": 39,
-            "poster": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
-            "id": "tmdb1374",
-            "cineselectRating": 9897,
-            "title": "Rocky IV",
+            "type": "movie",
             "year": "1985",
-            "type": "movie"
+            "cineselectRating": 9897,
+            "rt": 39,
+            "id": "tmdb1374",
+            "poster": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
+            "title": "Rocky IV"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "2006",
             "imdb": "tt0454921",
-            "poster": "https://image.tmdb.org/t/p/w500/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
             "rt": 0,
             "id": "tmdb1402",
-            "cineselectRating": 5000,
-            "title": "The Pursuit of Happyness",
-            "year": "2006",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/lBYOKAMcxIvuk9s9hMuecB9dPBV.jpg",
+            "title": "The Pursuit of Happyness"
         },
         {
             "imdb": "tt0246578",
-            "rt": 88,
-            "poster": "https://image.tmdb.org/t/p/w500/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
-            "id": "tmdb141",
-            "cineselectRating": 9771,
-            "title": "Donnie Darko",
+            "type": "movie",
             "year": "2001",
-            "type": "movie"
+            "cineselectRating": 9771,
+            "rt": 88,
+            "id": "tmdb141",
+            "poster": "https://image.tmdb.org/t/p/w500/fhQoQfejY1hUcwyuLgpBrYs6uFt.jpg",
+            "title": "Donnie Darko"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "2006",
             "imdb": "tt0407887",
-            "poster": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
             "rt": 91,
             "id": "tmdb1422",
-            "cineselectRating": 5000,
-            "title": "The Departed",
-            "year": "2006",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/nT97ifVT2J1yMQmeq20Qblg61T.jpg",
+            "title": "The Departed"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "2009",
             "imdb": "tt1121931",
-            "poster": "https://image.tmdb.org/t/p/w500/tzTC4EEvF0OPL63frEiogxL2T8M.jpg",
             "rt": 0,
             "id": "tmdb15092",
-            "cineselectRating": 5000,
-            "title": "Crank: High Voltage",
-            "year": "2009",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/tzTC4EEvF0OPL63frEiogxL2T8M.jpg",
+            "title": "Crank: High Voltage"
         },
         {
+            "type": "movie",
             "imdb": "tt0468569",
-            "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            "year": "2008",
+            "cineselectRating": 8361,
             "rt": 94,
             "id": "tmdb155",
-            "cineselectRating": 8361,
-            "title": "The Dark Knight",
-            "year": "2008",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/qJ2tW6WMUDux911r6m7haRef0WH.jpg",
+            "title": "The Dark Knight"
         },
         {
             "imdb": "tt0099423",
-            "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/lDFO7D4MdbhjOwaPwe18QG69Rt0.jpg",
-            "id": "tmdb1573",
-            "cineselectRating": 9761,
-            "title": "Die Hard 2",
+            "type": "movie",
             "year": "1990",
-            "type": "movie"
+            "cineselectRating": 9761,
+            "rt": 0,
+            "id": "tmdb1573",
+            "poster": "https://image.tmdb.org/t/p/w500/lDFO7D4MdbhjOwaPwe18QG69Rt0.jpg",
+            "title": "Die Hard 2"
         },
         {
+            "cineselectRating": 9541,
             "imdb": "tt0816692",
-            "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+            "year": "2014",
+            "type": "movie",
             "rt": 73,
             "id": "tmdb157336",
-            "cineselectRating": 9541,
-            "title": "Interstellar",
-            "year": "2014",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+            "title": "Interstellar"
         },
         {
+            "cineselectRating": 9881,
+            "type": "movie",
+            "year": "2006",
             "imdb": "tt0472043",
             "rt": 65,
-            "poster": "https://image.tmdb.org/t/p/w500/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
             "id": "tmdb1579",
-            "cineselectRating": 9881,
-            "title": "Apocalypto",
-            "year": "2006",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/cRY25Q32kDNPFDkFkxAs6bgCq3L.jpg",
+            "title": "Apocalypto"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1997",
             "imdb": "tt0119528",
-            "poster": "https://image.tmdb.org/t/p/w500/p1habYSdC7oD3WygQ5lynU5G5rV.jpg",
             "rt": 83,
             "id": "tmdb1624",
-            "cineselectRating": 5000,
-            "title": "Liar Liar",
-            "year": "1997",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/p1habYSdC7oD3WygQ5lynU5G5rV.jpg",
+            "title": "Liar Liar"
         },
         {
+            "type": "movie",
             "imdb": "tt0399201",
-            "poster": "https://image.tmdb.org/t/p/w500/juSBGCTK463as9clAea4mE2N3s0.jpg",
+            "year": "2005",
+            "cineselectRating": 5000,
             "rt": 0,
             "id": "tmdb1635",
-            "cineselectRating": 5000,
-            "title": "The Island",
-            "year": "2005",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/juSBGCTK463as9clAea4mE2N3s0.jpg",
+            "title": "The Island"
         },
         {
+            "cineselectRating": 9982,
             "imdb": "tt0096874",
-            "poster": "https://image.tmdb.org/t/p/w500/YBawEsTkUZBDajKbd5LiHkmMGf.jpg",
+            "year": "1989",
+            "type": "movie",
             "rt": 64,
             "id": "tmdb165",
-            "cineselectRating": 9982,
-            "title": "Back to the Future Part II",
-            "year": "1989",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/YBawEsTkUZBDajKbd5LiHkmMGf.jpg",
+            "title": "Back to the Future Part II"
         },
         {
+            "cineselectRating": 9461,
             "imdb": "tt0387564",
-            "poster": "https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+            "year": "2004",
+            "type": "movie",
             "rt": 0,
             "id": "tmdb176",
-            "cineselectRating": 9461,
-            "title": "Saw",
-            "year": "2004",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
+            "title": "Saw"
         },
         {
+            "cineselectRating": 7251,
+            "type": "movie",
+            "year": "2009",
             "imdb": "tt1119646",
-            "poster": "https://image.tmdb.org/t/p/w500/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
             "rt": 0,
             "id": "tmdb18785",
-            "cineselectRating": 7251,
-            "title": "The Hangover",
-            "year": "2009",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/A0uS9rHR56FeBtpjVki16M5xxSW.jpg",
+            "title": "The Hangover"
         },
         {
+            "cineselectRating": 9251,
             "imdb": "tt0080684",
-            "poster": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+            "year": "1980",
+            "type": "movie",
             "rt": 93,
             "id": "tmdb1891",
-            "cineselectRating": 9251,
-            "title": "The Empire Strikes Back",
-            "year": "1980",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/nNAeTmF4CtdSgMDplXTDPOpYzsX.jpg",
+            "title": "The Empire Strikes Back"
         },
         {
             "imdb": "tt0078346",
-            "poster": "https://image.tmdb.org/t/p/w500/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+            "type": "movie",
+            "year": "1978",
+            "cineselectRating": 9671,
             "rt": 93,
             "id": "tmdb1924",
-            "cineselectRating": 9671,
-            "title": "Superman",
-            "year": "1978",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/d7px1FQxW4tngdACVRsCSaZq0Xl.jpg",
+            "title": "Superman"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "2001",
             "imdb": "tt0230600",
-            "poster": "https://image.tmdb.org/t/p/w500/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
             "rt": 84,
             "id": "tmdb1933",
-            "cineselectRating": 5000,
-            "title": "The Others",
-            "year": "2001",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/p8g1vlTvpM6nr2hMMiZ1fUlKF0D.jpg",
+            "title": "The Others"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "2006",
             "imdb": "tt0479884",
-            "poster": "https://image.tmdb.org/t/p/w500/rsKmhnvzJezjwC1Ud2Hh37oNpdQ.jpg",
             "rt": 0,
             "id": "tmdb1948",
-            "cineselectRating": 5000,
-            "title": "Crank",
-            "year": "2006",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/rsKmhnvzJezjwC1Ud2Hh37oNpdQ.jpg",
+            "title": "Crank"
         },
         {
+            "cineselectRating": 9983,
             "imdb": "tt0099088",
-            "poster": "https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+            "year": "1990",
+            "type": "movie",
             "rt": 79,
             "id": "tmdb196",
-            "cineselectRating": 9983,
-            "title": "Back to the Future Part III",
-            "year": "1990",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+            "title": "Back to the Future Part III"
         },
         {
+            "type": "movie",
+            "cineselectRating": 10000,
+            "year": "1995",
             "imdb": "tt0112573",
             "rt": 76,
-            "poster": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
             "id": "tmdb197",
-            "cineselectRating": 10000,
-            "title": "Braveheart",
-            "year": "1995",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
+            "title": "Braveheart"
         },
         {
+            "type": "movie",
+            "cineselectRating": 5000,
+            "year": "2009",
             "imdb": "tt0499549",
             "rt": 81,
-            "poster": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
             "id": "tmdb19995",
-            "cineselectRating": 5000,
-            "title": "Avatar",
-            "year": "2009",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+            "title": "Avatar"
         },
         {
             "imdb": "tt0187393",
-            "poster": "https://image.tmdb.org/t/p/w500/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+            "cineselectRating": 8811,
+            "year": "2000",
+            "type": "movie",
             "rt": 62,
             "id": "tmdb2024",
-            "cineselectRating": 8811,
-            "title": "The Patriot",
-            "year": "2000",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/fWZd815QxUCUcrWQZwUkAp9ljG.jpg",
+            "title": "The Patriot"
         },
         {
+            "cineselectRating": 9701,
             "imdb": "tt1187043",
-            "poster": "https://image.tmdb.org/t/p/w500/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+            "year": "2009",
+            "type": "movie",
             "rt": 100,
             "id": "tmdb20453",
-            "cineselectRating": 9701,
-            "title": "3 Idiots",
-            "year": "2009",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/66A9MqXOyVFCssoloscw79z8Tew.jpg",
+            "title": "3 Idiots"
         },
         {
+            "cineselectRating": 9641,
             "imdb": "tt0382932",
-            "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+            "year": "2007",
+            "type": "movie",
             "rt": 96,
             "id": "tmdb2062",
-            "cineselectRating": 9641,
-            "title": "Ratatouille",
-            "year": "2007",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/t3vaWRPSf6WjDSamIkKDs1iQWna.jpg",
+            "title": "Ratatouille"
         },
         {
+            "type": "movie",
+            "cineselectRating": 5000,
+            "year": "2010",
             "imdb": "tt0955308",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/9NS5QGOfck24yL3bZqWeW06PgPC.jpg",
             "id": "tmdb20662",
-            "cineselectRating": 5000,
-            "title": "Robin Hood",
-            "year": "2010",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/9NS5QGOfck24yL3bZqWeW06PgPC.jpg",
+            "title": "Robin Hood"
         },
         {
             "imdb": "tt0120784",
-            "poster": "https://image.tmdb.org/t/p/w500/8Bqlv2kbOyZFqfiPNgzdBscqYPn.jpg",
+            "cineselectRating": 9871,
+            "year": "1999",
+            "type": "movie",
             "rt": 56,
             "id": "tmdb2112",
-            "cineselectRating": 9871,
-            "title": "Payback",
-            "year": "1999",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/8Bqlv2kbOyZFqfiPNgzdBscqYPn.jpg",
+            "title": "Payback"
         },
         {
+            "cineselectRating": 9571,
             "imdb": "tt0111282",
-            "poster": "https://image.tmdb.org/t/p/w500/63Ol9NX5E1OEsH7CHivNEvJMdky.jpg",
+            "year": "1994",
+            "type": "movie",
             "rt": 54,
             "id": "tmdb2164",
-            "cineselectRating": 9571,
-            "title": "Stargate",
-            "year": "1994",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/63Ol9NX5E1OEsH7CHivNEvJMdky.jpg",
+            "title": "Stargate"
         },
         {
+            "type": "movie",
+            "cineselectRating": 9621,
+            "year": "1984",
             "imdb": "tt0088247",
             "rt": 100,
-            "poster": "https://image.tmdb.org/t/p/w500/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
             "id": "tmdb218",
-            "cineselectRating": 9621,
-            "title": "The Terminator",
-            "year": "1984",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+            "title": "The Terminator"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "2003",
             "imdb": "tt0325980",
-            "poster": "https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
             "rt": 79,
             "id": "tmdb22",
-            "cineselectRating": 5000,
-            "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
-            "year": "2003",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",
+            "title": "Pirates of the Caribbean: The Curse of the Black Pearl"
         },
         {
             "imdb": "tt0068646",
-            "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+            "type": "movie",
+            "year": "1972",
+            "cineselectRating": 8870,
             "rt": 97,
             "id": "tmdb238",
-            "cineselectRating": 8870,
-            "title": "The Godfather",
-            "year": "1972",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+            "title": "The Godfather"
         },
         {
+            "type": "movie",
+            "cineselectRating": 9261,
+            "year": "2003",
             "imdb": "tt0266697",
-            "poster": "https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
             "rt": 0,
             "id": "tmdb24",
-            "cineselectRating": 9261,
-            "title": "Kill Bill: Vol. 1",
-            "year": "2003",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/v7TaX8kXMXs5yFFGR41guUDNcnB.jpg",
+            "title": "Kill Bill: Vol. 1"
         },
         {
+            "type": "movie",
             "imdb": "tt2872732",
-            "poster": "https://image.tmdb.org/t/p/w500/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+            "year": "2014",
+            "cineselectRating": 5000,
             "rt": 0,
             "id": "tmdb240832",
-            "cineselectRating": 5000,
-            "title": "Lucy",
-            "year": "2014",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
+            "title": "Lucy"
         },
         {
+            "cineselectRating": 9561,
             "imdb": "tt2582802",
-            "poster": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+            "year": "2014",
+            "type": "movie",
             "rt": 94,
             "id": "tmdb244786",
-            "cineselectRating": 9561,
-            "title": "Whiplash",
-            "year": "2014",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/7fn624j5lj3xTme2SgiLCeuedmO.jpg",
+            "title": "Whiplash"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1989",
             "imdb": "tt0096895",
-            "poster": "https://image.tmdb.org/t/p/w500/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
             "rt": 77,
             "id": "tmdb268",
-            "cineselectRating": 5000,
-            "title": "Batman",
-            "year": "1989",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/cij4dd21v2Rk2YtUQbV5kW69WB2.jpg",
+            "title": "Batman"
         },
         {
+            "type": "movie",
             "imdb": "tt0372784",
-            "poster": "https://image.tmdb.org/t/p/w500/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg",
+            "year": "2005",
+            "cineselectRating": 8331,
             "rt": 85,
             "id": "tmdb272",
-            "cineselectRating": 8331,
-            "title": "Batman Begins",
-            "year": "2005",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/4MpN4kIEqUjW8OPtOQJXlTdHiJV.jpg",
+            "title": "Batman Begins"
         },
         {
+            "type": "movie",
+            "cineselectRating": 5000,
+            "year": "2010",
             "imdb": "tt1375666",
             "rt": 87,
-            "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
             "id": "tmdb27205",
-            "cineselectRating": 5000,
-            "title": "Inception",
-            "year": "2010",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/oYuLEt3zVCKq57qu2F8dT7NIa6f.jpg",
+            "title": "Inception"
         },
         {
+            "cineselectRating": 9361,
             "imdb": "tt0102926",
-            "poster": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+            "year": "1991",
+            "type": "movie",
             "rt": 95,
             "id": "tmdb274",
-            "cineselectRating": 9361,
-            "title": "The Silence of the Lambs",
-            "year": "1991",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/uS9m8OBk1A8eM9I042bx8XXpqAq.jpg",
+            "title": "The Silence of the Lambs"
         },
         {
+            "cineselectRating": 9731,
             "imdb": "tt0096754",
-            "poster": "https://image.tmdb.org/t/p/w500/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+            "year": "1989",
+            "type": "movie",
             "rt": 0,
             "id": "tmdb2756",
-            "cineselectRating": 9731,
-            "title": "The Abyss",
-            "year": "1989",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
+            "title": "The Abyss"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1994",
             "imdb": "tt0111161",
-            "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
             "rt": 0,
             "id": "tmdb278",
-            "cineselectRating": 5000,
-            "title": "The Shawshank Redemption",
-            "year": "1994",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/9cqNxx0GxF0bflZmeSMuL5tnGzr.jpg",
+            "title": "The Shawshank Redemption"
         },
         {
             "imdb": "tt0086879",
-            "rt": 90,
-            "poster": "https://image.tmdb.org/t/p/w500/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
-            "id": "tmdb279",
-            "cineselectRating": 9531,
-            "title": "Amadeus",
+            "type": "movie",
             "year": "1984",
-            "type": "movie"
+            "cineselectRating": 9531,
+            "rt": 90,
+            "id": "tmdb279",
+            "poster": "https://image.tmdb.org/t/p/w500/1n5VUlCqgmVax1adxGZm8oCFaKc.jpg",
+            "title": "Amadeus"
         },
         {
             "imdb": "tt3450958",
-            "poster": "https://image.tmdb.org/t/p/w500/mMA1qhBFgZX8O36qPPTC016kQl1.jpg",
+            "type": "movie",
+            "year": "2017",
+            "cineselectRating": 4171,
             "rt": 94,
             "id": "tmdb281338",
-            "cineselectRating": 4171,
-            "title": "War for the Planet of the Apes",
-            "year": "2017",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/mMA1qhBFgZX8O36qPPTC016kQl1.jpg",
+            "title": "War for the Planet of the Apes"
         },
         {
             "imdb": "tt0352699",
-            "poster": "https://image.tmdb.org/t/p/w500/lDsUWvTHbSsI62u63S8B6Jjgztb.jpg",
+            "type": "movie",
+            "year": "2004",
+            "cineselectRating": 501,
             "rt": 0,
             "id": "tmdb291545",
-            "cineselectRating": 501,
-            "title": "Parasite",
-            "year": "2004",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/lDsUWvTHbSsI62u63S8B6Jjgztb.jpg",
+            "title": "Parasite"
         },
         {
             "imdb": "tt1655441",
-            "rt": 55,
-            "poster": "https://image.tmdb.org/t/p/w500/MbILysGhjAbnZi1Okae9wYqLMx.jpg",
-            "id": "tmdb293863",
-            "cineselectRating": 9731,
-            "title": "The Age of Adaline",
+            "type": "movie",
             "year": "2015",
-            "type": "movie"
+            "cineselectRating": 9731,
+            "rt": 55,
+            "id": "tmdb293863",
+            "poster": "https://image.tmdb.org/t/p/w500/MbILysGhjAbnZi1Okae9wYqLMx.jpg",
+            "title": "The Age of Adaline"
         },
         {
             "imdb": "tt0107290",
-            "rt": 91,
-            "poster": "https://image.tmdb.org/t/p/w500/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
-            "id": "tmdb329",
-            "cineselectRating": 9821,
-            "title": "Jurassic Park",
+            "type": "movie",
             "year": "1993",
-            "type": "movie"
+            "cineselectRating": 9821,
+            "rt": 91,
+            "id": "tmdb329",
+            "poster": "https://image.tmdb.org/t/p/w500/63viWuPfYQjRYLSZSZNq7dglJP5.jpg",
+            "title": "Jurassic Park"
         },
         {
             "imdb": "tt0078748",
-            "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+            "type": "movie",
+            "year": "1979",
+            "cineselectRating": 9691,
             "rt": 93,
             "id": "tmdb348",
-            "cineselectRating": 9691,
-            "title": "Alien",
-            "year": "1979",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+            "title": "Alien"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1998",
             "imdb": "tt0120611",
-            "poster": "https://image.tmdb.org/t/p/w500/hx0sdduAsr4rq03RZKZzglR25z7.jpg",
             "rt": 0,
             "id": "tmdb36647",
-            "cineselectRating": 5000,
-            "title": "Blade",
-            "year": "1998",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/hx0sdduAsr4rq03RZKZzglR25z7.jpg",
+            "title": "Blade"
         },
         {
+            "cineselectRating": 9671,
             "imdb": "tt0120382",
-            "poster": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+            "year": "1998",
+            "type": "movie",
             "rt": 94,
             "id": "tmdb37165",
-            "cineselectRating": 9671,
-            "title": "The Truman Show",
-            "year": "1998",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg",
+            "title": "The Truman Show"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "2004",
             "imdb": "tt0338013",
-            "poster": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
             "rt": 92,
             "id": "tmdb38",
-            "cineselectRating": 5000,
-            "title": "Eternal Sunshine of the Spotless Mind",
-            "year": "2004",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg",
+            "title": "Eternal Sunshine of the Spotless Mind"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1988",
             "imdb": "tt0095953",
-            "poster": "https://image.tmdb.org/t/p/w500/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
             "rt": 88,
             "id": "tmdb380",
-            "cineselectRating": 5000,
-            "title": "Rain Man",
-            "year": "1988",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/iTNHwO896WKkaoPtpMMS74d8VNi.jpg",
+            "title": "Rain Man"
         },
         {
+            "cineselectRating": 9841,
             "imdb": "tt0050083",
-            "poster": "https://image.tmdb.org/t/p/w500/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+            "year": "1957",
+            "type": "movie",
             "rt": 100,
             "id": "tmdb389",
-            "cineselectRating": 9841,
-            "title": "12 Angry Men",
-            "year": "1957",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/ow3wq89wM8qd5X7hWKxiRfsFf9C.jpg",
+            "title": "12 Angry Men"
         },
         {
+            "type": "movie",
+            "cineselectRating": 9231,
+            "year": "2004",
             "imdb": "tt0378194",
-            "poster": "https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
             "rt": 0,
             "id": "tmdb393",
-            "cineselectRating": 9231,
-            "title": "Kill Bill: Vol. 2",
-            "year": "2004",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/2yhg0mZQMhDyvUQ4rG1IZ4oIA8L.jpg",
+            "title": "Kill Bill: Vol. 2"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "2000",
             "imdb": "tt0207201",
             "rt": 54,
-            "poster": "https://image.tmdb.org/t/p/w500/eqkBEMDk1316Yx5wVoabWY07JAi.jpg",
             "id": "tmdb3981",
-            "cineselectRating": 5000,
-            "title": "What Women Want",
-            "year": "2000",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/eqkBEMDk1316Yx5wVoabWY07JAi.jpg",
+            "title": "What Women Want"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "2002",
             "imdb": "tt0293662",
-            "poster": "https://image.tmdb.org/t/p/w500/xmuCaJJjGbUns8pwMD7M0C0O1uP.jpg",
             "rt": 0,
             "id": "tmdb4108",
-            "cineselectRating": 5000,
-            "title": "The Transporter",
-            "year": "2002",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/xmuCaJJjGbUns8pwMD7M0C0O1uP.jpg",
+            "title": "The Transporter"
         },
         {
+            "cineselectRating": 9641,
             "imdb": "tt0253474",
-            "poster": "https://image.tmdb.org/t/p/w500/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+            "year": "2002",
+            "type": "movie",
             "rt": 95,
             "id": "tmdb423",
-            "cineselectRating": 9641,
-            "title": "The Pianist",
-            "year": "2002",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/2hFvxCCWrTmCYwfy7yum0GKRi3Y.jpg",
+            "title": "The Pianist"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1993",
             "imdb": "tt0108052",
-            "poster": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
             "rt": 98,
             "id": "tmdb424",
-            "cineselectRating": 5000,
-            "title": "Schindler's List",
-            "year": "1993",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/sF1U4EUQS8YHUYjNl3pMGNIQyr0.jpg",
+            "title": "Schindler's List"
         },
         {
+            "cineselectRating": 8951,
             "imdb": "tt0060196",
-            "poster": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+            "year": "1966",
+            "type": "movie",
             "rt": 97,
             "id": "tmdb429",
-            "cineselectRating": 8951,
-            "title": "The Good, the Bad and the Ugly",
-            "year": "1966",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/bX2xnavhMYjWDoZp1VM6VnU1xwe.jpg",
+            "title": "The Good, the Bad and the Ugly"
         },
         {
+            "cineselectRating": 7261,
+            "type": "movie",
+            "year": "2011",
             "imdb": "tt1411697",
-            "poster": "https://image.tmdb.org/t/p/w500/7sGkjqorTHkaHTz8Q4WWHj8JL9t.jpg",
             "rt": 0,
             "id": "tmdb45243",
-            "cineselectRating": 7261,
-            "title": "The Hangover Part II",
-            "year": "2011",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/7sGkjqorTHkaHTz8Q4WWHj8JL9t.jpg",
+            "title": "The Hangover Part II"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "2002",
             "imdb": "tt0258000",
-            "poster": "https://image.tmdb.org/t/p/w500/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg",
             "rt": 76,
             "id": "tmdb4547",
-            "cineselectRating": 5000,
-            "title": "Panic Room",
-            "year": "2002",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/hANYbvfwxmkC9E4yY6YyJxYxlSJ.jpg",
+            "title": "Panic Room"
         },
         {
             "imdb": "tt0361862",
-            "poster": "https://image.tmdb.org/t/p/w500/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+            "cineselectRating": 8651,
+            "year": "2004",
+            "type": "movie",
             "rt": 0,
             "id": "tmdb4553",
-            "cineselectRating": 8651,
-            "title": "The Machinist",
-            "year": "2004",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
+            "title": "The Machinist"
         },
         {
+            "cineselectRating": 9691,
             "imdb": "tt7286456",
-            "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+            "year": "2019",
+            "type": "movie",
             "rt": 68,
             "id": "tmdb475557",
-            "cineselectRating": 9691,
-            "title": "Joker",
-            "year": "2019",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+            "title": "Joker"
         },
         {
             "imdb": "tt1606378",
-            "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/qJ0csDXAVFMsNn0cRcjy6W6PxAK.jpg",
-            "id": "tmdb47964",
-            "cineselectRating": 9711,
-            "title": "A Good Day to Die Hard",
+            "type": "movie",
             "year": "2013",
-            "type": "movie"
+            "cineselectRating": 9711,
+            "rt": 0,
+            "id": "tmdb47964",
+            "poster": "https://image.tmdb.org/t/p/w500/qJ0csDXAVFMsNn0cRcjy6W6PxAK.jpg",
+            "title": "A Good Day to Die Hard"
         },
         {
+            "type": "movie",
+            "cineselectRating": 5000,
+            "year": "2011",
             "imdb": "tt1401152",
             "rt": 56,
-            "poster": "https://image.tmdb.org/t/p/w500/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
             "id": "tmdb48138",
-            "cineselectRating": 5000,
-            "title": "Unknown",
-            "year": "2011",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/aXBQD515okXQZmYA89ntXMvSJSd.jpg",
+            "title": "Unknown"
         },
         {
+            "type": "movie",
             "imdb": "tt1816012",
-            "poster": "https://image.tmdb.org/t/p/w500/nDE3fQ4yzQpF8kuEBTWg0KQG7iD.jpg",
+            "year": "1989",
+            "cineselectRating": 9431,
             "rt": 0,
             "id": "tmdb489268",
-            "cineselectRating": 9431,
-            "title": "The World at War: The Making of the Series",
-            "year": "1989",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/nDE3fQ4yzQpF8kuEBTWg0KQG7iD.jpg",
+            "title": "The World at War: The Making of the Series"
         },
         {
+            "cineselectRating": 9771,
             "imdb": "tt1345836",
-            "poster": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+            "year": "2012",
+            "type": "movie",
             "rt": 87,
             "id": "tmdb49026",
-            "cineselectRating": 9771,
-            "title": "The Dark Knight Rises",
-            "year": "2012",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/hr0L2aueqlP2BYUblTTjmtn0hw4.jpg",
+            "title": "The Dark Knight Rises"
         },
         {
             "imdb": "tt5208252",
-            "poster": "https://image.tmdb.org/t/p/w500/nlIdPeH5IrR1qRErschnVQeZAQu.jpg",
+            "type": "movie",
+            "year": "2018",
+            "cineselectRating": 5000,
             "rt": 60,
             "id": "tmdb493551",
-            "cineselectRating": 5000,
-            "title": "Operation Finale",
-            "year": "2018",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/nlIdPeH5IrR1qRErschnVQeZAQu.jpg",
+            "title": "Operation Finale"
         },
         {
+            "cineselectRating": 9401,
             "imdb": "tt0120689",
-            "poster": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+            "year": "1999",
+            "type": "movie",
             "rt": 79,
             "id": "tmdb497",
-            "cineselectRating": 9401,
-            "title": "The Green Mile",
-            "year": "1999",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/8VG8fDNiy50H4FedGwdSVUPoaJe.jpg",
+            "title": "The Green Mile"
         },
         {
             "imdb": "tt0105236",
-            "rt": 90,
-            "poster": "https://image.tmdb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
-            "id": "tmdb500",
-            "cineselectRating": 9781,
-            "title": "Reservoir Dogs",
+            "type": "movie",
             "year": "1992",
-            "type": "movie"
+            "cineselectRating": 9781,
+            "rt": 90,
+            "id": "tmdb500",
+            "poster": "https://image.tmdb.org/t/p/w500/xi8Iu6qyTfyZVDVy60raIOYJJmk.jpg",
+            "title": "Reservoir Dogs"
         },
         {
+            "type": "movie",
             "imdb": "tt1219289",
-            "rt": 68,
-            "poster": "https://image.tmdb.org/t/p/w500/un0a2U7KLjMH77N6EhqYh7ZOlVx.jpg",
-            "id": "tmdb51876",
-            "cineselectRating": 9801,
-            "title": "Limitless",
             "year": "2011",
-            "type": "movie"
+            "cineselectRating": 9801,
+            "rt": 68,
+            "id": "tmdb51876",
+            "poster": "https://image.tmdb.org/t/p/w500/un0a2U7KLjMH77N6EhqYh7ZOlVx.jpg",
+            "title": "Limitless"
         },
         {
             "imdb": "tt0054215",
-            "poster": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+            "type": "movie",
+            "year": "1960",
+            "cineselectRating": 5000,
             "rt": 97,
             "id": "tmdb539",
-            "cineselectRating": 5000,
-            "title": "Psycho",
-            "year": "1960",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/yz4QVqPx3h1hD1DfqqQkCq3rmxW.jpg",
+            "title": "Psycho"
         },
         {
+            "cineselectRating": 9451,
             "imdb": "tt0137523",
-            "poster": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+            "year": "1999",
+            "type": "movie",
             "rt": 81,
             "id": "tmdb550",
-            "cineselectRating": 9451,
-            "title": "Fight Club",
-            "year": "1999",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/jSziioSwPVrOy9Yow3XhWIBDjq1.jpg",
+            "title": "Fight Club"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1993",
             "imdb": "tt0106977",
-            "poster": "https://image.tmdb.org/t/p/w500/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
             "rt": 0,
             "id": "tmdb5503",
-            "cineselectRating": 5000,
-            "title": "The Fugitive",
-            "year": "1993",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/b3rEtLKyOnF89mcK75GXDXdmOEf.jpg",
+            "title": "The Fugitive"
         },
         {
             "imdb": "tt0095016",
-            "rt": 94,
-            "poster": "https://image.tmdb.org/t/p/w500/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg",
-            "id": "tmdb562",
-            "cineselectRating": 9771,
-            "title": "Die Hard",
+            "type": "movie",
             "year": "1988",
-            "type": "movie"
+            "cineselectRating": 9771,
+            "rt": 94,
+            "id": "tmdb562",
+            "poster": "https://image.tmdb.org/t/p/w500/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg",
+            "title": "Die Hard"
         },
         {
+            "cineselectRating": 8991,
             "imdb": "tt0120201",
-            "poster": "https://image.tmdb.org/t/p/w500/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+            "year": "1997",
+            "type": "movie",
             "rt": 0,
             "id": "tmdb563",
-            "cineselectRating": 8991,
-            "title": "Starship Troopers",
-            "year": "1997",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
+            "title": "Starship Troopers"
         },
         {
+            "cineselectRating": 5000,
             "imdb": "tt4332232",
-            "poster": "https://image.tmdb.org/t/p/w500/paZNRffT3kUckuRFKbeDBuX1YcZ.jpg",
+            "year": "2019",
+            "type": "movie",
             "rt": 56,
             "id": "tmdb568091",
-            "cineselectRating": 5000,
-            "title": "Fractured",
-            "year": "2019",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/paZNRffT3kUckuRFKbeDBuX1YcZ.jpg",
+            "title": "Fractured"
         },
         {
+            "cineselectRating": 9421,
             "imdb": "tt0073195",
-            "poster": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+            "year": "1975",
+            "type": "movie",
             "rt": 97,
             "id": "tmdb578",
-            "cineselectRating": 9421,
-            "title": "Jaws",
-            "year": "1975",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/lxM6kqilAdpdhqUl2biYp5frUxE.jpg",
+            "title": "Jaws"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "2006",
             "imdb": "tt0383574",
-            "poster": "https://image.tmdb.org/t/p/w500/lAhcKRt0ggTFkeFL95jrGQYaRXs.jpg",
             "rt": 53,
             "id": "tmdb58",
-            "cineselectRating": 5000,
-            "title": "Pirates of the Caribbean: Dead Man's Chest",
-            "year": "2006",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/lAhcKRt0ggTFkeFL95jrGQYaRXs.jpg",
+            "title": "Pirates of the Caribbean: Dead Man's Chest"
         },
         {
             "imdb": "tt1430122",
-            "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/rb0tqV7FxHECv2cRW8H8DJ5RhtP.jpg",
-            "id": "tmdb585240",
-            "cineselectRating": 9661,
-            "title": "The Curious Birth of Benjamin Button",
+            "type": "movie",
             "year": "2009",
-            "type": "movie"
+            "cineselectRating": 9661,
+            "rt": 0,
+            "id": "tmdb585240",
+            "poster": "https://image.tmdb.org/t/p/w500/rb0tqV7FxHECv2cRW8H8DJ5RhtP.jpg",
+            "title": "The Curious Birth of Benjamin Button"
         },
         {
+            "type": "movie",
             "imdb": "tt0120338",
-            "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+            "year": "1997",
+            "cineselectRating": 9371,
             "rt": 88,
             "id": "tmdb597",
-            "cineselectRating": 9371,
-            "title": "Titanic",
-            "year": "1997",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg",
+            "title": "Titanic"
         },
         {
+            "type": "movie",
+            "cineselectRating": 5000,
+            "year": "1999",
             "imdb": "tt0133093",
             "rt": 83,
-            "poster": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
             "id": "tmdb603",
-            "cineselectRating": 5000,
-            "title": "The Matrix",
-            "year": "1999",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/p96dm7sCMn4VYAStA6siNz30G1r.jpg",
+            "title": "The Matrix"
         },
         {
             "imdb": "tt0325710",
-            "poster": "https://image.tmdb.org/t/p/w500/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",
+            "type": "movie",
+            "year": "2003",
+            "cineselectRating": 9831,
             "rt": 66,
             "id": "tmdb616",
-            "cineselectRating": 9831,
-            "title": "The Last Samurai",
-            "year": "2003",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",
+            "title": "The Last Samurai"
         },
         {
             "imdb": "tt1318514",
-            "poster": "https://image.tmdb.org/t/p/w500/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg",
+            "type": "movie",
+            "year": "2011",
+            "cineselectRating": 5000,
             "rt": 82,
             "id": "tmdb61791",
-            "cineselectRating": 5000,
-            "title": "Rise of the Planet of the Apes",
-            "year": "2011",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/cjLsuP75UDlRdJVMXzXg3TJ4umX.jpg",
+            "title": "Rise of the Planet of the Apes"
         },
         {
+            "type": "movie",
+            "cineselectRating": 9501,
+            "year": "1992",
             "imdb": "tt0103855",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/ihWF0uY1xnKqw9YK7ZHNLUZOhcO.jpg",
             "id": "tmdb619",
-            "cineselectRating": 9501,
-            "title": "The Bodyguard",
-            "year": "1992",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/ihWF0uY1xnKqw9YK7ZHNLUZOhcO.jpg",
+            "title": "The Bodyguard"
         },
         {
+            "type": "movie",
             "imdb": "tt0062622",
-            "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+            "year": "1968",
+            "cineselectRating": 5000,
             "rt": 90,
             "id": "tmdb62",
-            "cineselectRating": 5000,
-            "title": "2001: A Space Odyssey",
-            "year": "1968",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",
+            "title": "2001: A Space Odyssey"
         },
         {
+            "cineselectRating": 9621,
             "imdb": "tt0118799",
-            "poster": "https://image.tmdb.org/t/p/w500/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
+            "year": "1997",
+            "type": "movie",
             "rt": 81,
             "id": "tmdb637",
-            "cineselectRating": 9621,
-            "title": "Life Is Beautiful",
-            "year": "1997",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/74hLDKjD5aGYOotO6esUVaeISa2.jpg",
+            "title": "Life Is Beautiful"
         },
         {
+            "cineselectRating": 9271,
             "imdb": "tt0264464",
-            "poster": "https://image.tmdb.org/t/p/w500/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+            "year": "2002",
+            "type": "movie",
             "rt": 96,
             "id": "tmdb640",
-            "cineselectRating": 9271,
-            "title": "Catch Me If You Can",
-            "year": "2002",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/ctjEj2xM32OvBXCq8zAdK3ZrsAj.jpg",
+            "title": "Catch Me If You Can"
         },
         {
+            "cineselectRating": 9801,
             "imdb": "tt0180093",
-            "poster": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+            "year": "2000",
+            "type": "movie",
             "rt": 78,
             "id": "tmdb641",
-            "cineselectRating": 9801,
-            "title": "Requiem for a Dream",
-            "year": "2000",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/nOd6vjEmzCT0k4VYqsA2hwyi87C.jpg",
+            "title": "Requiem for a Dream"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "2007",
             "imdb": "tt0480249",
-            "poster": "https://image.tmdb.org/t/p/w500/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
             "rt": 0,
             "id": "tmdb6479",
-            "cineselectRating": 5000,
-            "title": "I Am Legend",
-            "year": "2007",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg",
+            "title": "I Am Legend"
         },
         {
+            "cineselectRating": 9611,
+            "type": "movie",
+            "year": "2004",
             "imdb": "tt0332452",
             "rt": 53,
-            "poster": "https://image.tmdb.org/t/p/w500/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
             "id": "tmdb652",
-            "cineselectRating": 9611,
-            "title": "Troy",
-            "year": "2004",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg",
+            "title": "Troy"
         },
         {
+            "type": "movie",
+            "cineselectRating": 821,
+            "year": "1959",
             "imdb": "tt0052618",
-            "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
             "rt": 87,
             "id": "tmdb665",
-            "cineselectRating": 821,
-            "title": "Ben-Hur",
-            "year": "1959",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+            "title": "Ben-Hur"
         },
         {
             "imdb": "tt0110912",
-            "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+            "type": "movie",
+            "year": "1994",
+            "cineselectRating": 8770,
             "rt": 92,
             "id": "tmdb680",
-            "cineselectRating": 8770,
-            "title": "Pulp Fiction",
-            "year": "1994",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+            "title": "Pulp Fiction"
         },
         {
+            "type": "movie",
+            "cineselectRating": 5000,
+            "year": "2012",
             "imdb": "tt1392170",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
             "id": "tmdb70160",
-            "cineselectRating": 5000,
-            "title": "The Hunger Games",
-            "year": "2012",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/yXCbOiVDCxO71zI7cuwBRXdftq8.jpg",
+            "title": "The Hunger Games"
         },
         {
+            "cineselectRating": 8471,
             "imdb": "tt0120586",
-            "poster": "https://image.tmdb.org/t/p/w500/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg",
+            "year": "1998",
+            "type": "movie",
             "rt": 0,
             "id": "tmdb73",
-            "cineselectRating": 8471,
-            "title": "American History X",
-            "year": "1998",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg",
+            "title": "American History X"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1986",
             "imdb": "tt0092099",
-            "poster": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
             "rt": 59,
             "id": "tmdb744",
-            "cineselectRating": 5000,
-            "title": "Top Gun",
-            "year": "1986",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/xUuHj3CgmZQ9P2cMaqQs4J0d4Zc.jpg",
+            "title": "Top Gun"
         },
         {
+            "cineselectRating": 8451,
             "imdb": "tt0167404",
-            "poster": "https://image.tmdb.org/t/p/w500/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+            "year": "1999",
+            "type": "movie",
             "rt": 0,
             "id": "tmdb745",
-            "cineselectRating": 8451,
-            "title": "The Sixth Sense",
-            "year": "1999",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
+            "title": "The Sixth Sense"
         },
         {
+            "cineselectRating": 9391,
             "imdb": "tt0434409",
-            "poster": "https://image.tmdb.org/t/p/w500/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+            "year": "2006",
+            "type": "movie",
             "rt": 0,
             "id": "tmdb752",
-            "cineselectRating": 9391,
-            "title": "V for Vendetta",
-            "year": "2006",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/1avD1JeaRiJX5M4ahPdZPypGoGN.jpg",
+            "title": "V for Vendetta"
         },
         {
+            "cineselectRating": 9261,
             "imdb": "tt0209144",
-            "poster": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+            "year": "2000",
+            "type": "movie",
             "rt": 0,
             "id": "tmdb77",
-            "cineselectRating": 9261,
-            "title": "Memento",
-            "year": "2000",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
+            "title": "Memento"
         },
         {
+            "cineselectRating": 9521,
             "imdb": "tt0114369",
-            "poster": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+            "year": "1995",
+            "type": "movie",
             "rt": 84,
             "id": "tmdb807",
-            "cineselectRating": 9521,
-            "title": "Se7en",
-            "year": "1995",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/191nKfP0ehp3uIvWqgPbFmI4lv9.jpg",
+            "title": "Se7en"
         },
         {
+            "cineselectRating": 9741,
             "imdb": "tt0082971",
-            "poster": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+            "year": "1981",
+            "type": "movie",
             "rt": 94,
             "id": "tmdb85",
-            "cineselectRating": 9741,
-            "title": "Raiders of the Lost Ark",
-            "year": "1981",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/ceG9VzoRAVGwivFU403Wc3AHRys.jpg",
+            "title": "Raiders of the Lost Ark"
         },
         {
+            "type": "movie",
+            "cineselectRating": 5000,
+            "year": "2001",
             "imdb": "tt0215750",
             "rt": 54,
-            "poster": "https://image.tmdb.org/t/p/w500/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg",
             "id": "tmdb853",
-            "cineselectRating": 5000,
-            "title": "Enemy at the Gates",
-            "year": "2001",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/9cSoNnB31hGY2mL78VT8mAbz6nR.jpg",
+            "title": "Enemy at the Gates"
         },
         {
+            "cineselectRating": 9571,
             "imdb": "tt0120815",
-            "poster": "https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+            "year": "1998",
+            "type": "movie",
             "rt": 94,
             "id": "tmdb857",
-            "cineselectRating": 9571,
-            "title": "Saving Private Ryan",
-            "year": "1998",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/uqx37cS8cpHg8U35f9U5IBlrCV3.jpg",
+            "title": "Saving Private Ryan"
         },
         {
+            "type": "movie",
             "imdb": "tt0100802",
-            "rt": 82,
-            "poster": "https://image.tmdb.org/t/p/w500/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
-            "id": "tmdb861",
-            "cineselectRating": 8551,
-            "title": "Total Recall",
             "year": "1990",
-            "type": "movie"
+            "cineselectRating": 8551,
+            "rt": 82,
+            "id": "tmdb861",
+            "poster": "https://image.tmdb.org/t/p/w500/wVbeL6fkbTKSmNfalj4VoAUUqJv.jpg",
+            "title": "Total Recall"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1997",
             "imdb": "tt0118883",
             "rt": 57,
-            "poster": "https://image.tmdb.org/t/p/w500/aPFpliJKIXivPoNK4jrMzQzuyYZ.jpg",
             "id": "tmdb8834",
-            "cineselectRating": 5000,
-            "title": "Conspiracy Theory",
-            "year": "1997",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/aPFpliJKIXivPoNK4jrMzQzuyYZ.jpg",
+            "title": "Conspiracy Theory"
         },
         {
             "imdb": "tt0317219",
-            "rt": 74,
-            "poster": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
-            "id": "tmdb920",
-            "cineselectRating": 5000,
-            "title": "Cars",
+            "type": "movie",
             "year": "2006",
-            "type": "movie"
+            "cineselectRating": 5000,
+            "rt": 74,
+            "id": "tmdb920",
+            "poster": "https://image.tmdb.org/t/p/w500/2Touk3m5gzsqr1VsvxypdyHY5ci.jpg",
+            "title": "Cars"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "2005",
             "imdb": "tt0408790",
-            "poster": "https://image.tmdb.org/t/p/w500/oNjZFzbe7PfF3TxztNHDkinOPyB.jpg",
             "rt": 37,
             "id": "tmdb9315",
-            "cineselectRating": 5000,
-            "title": "Flightplan",
-            "year": "2005",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/oNjZFzbe7PfF3TxztNHDkinOPyB.jpg",
+            "title": "Flightplan"
         },
         {
+            "type": "movie",
+            "cineselectRating": 5000,
+            "year": "2024",
             "imdb": "tt17526714",
-            "poster": "https://image.tmdb.org/t/p/w500/q6HjZlvyKxYmhlRhnnxeyudzK9A.jpg",
             "rt": 89,
             "id": "tmdb933260",
-            "cineselectRating": 5000,
-            "title": "The Substance",
-            "year": "2024",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/q6HjZlvyKxYmhlRhnnxeyudzK9A.jpg",
+            "title": "The Substance"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "2005",
             "imdb": "tt0388482",
-            "poster": "https://image.tmdb.org/t/p/w500/cdm17vK8PxHfTi7ayZf6WKbOgUO.jpg",
             "rt": 0,
             "id": "tmdb9335",
-            "cineselectRating": 5000,
-            "title": "Transporter 2",
-            "year": "2005",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/cdm17vK8PxHfTi7ayZf6WKbOgUO.jpg",
+            "title": "Transporter 2"
         },
         {
+            "type": "movie",
+            "cineselectRating": 5000,
+            "year": "1965",
             "imdb": "tt0059578",
-            "poster": "https://image.tmdb.org/t/p/w500/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
             "rt": 92,
             "id": "tmdb938",
-            "cineselectRating": 5000,
-            "title": "For a Few Dollars More",
-            "year": "1965",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
+            "title": "For a Few Dollars More"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1987",
             "imdb": "tt0093409",
             "rt": 80,
-            "poster": "https://image.tmdb.org/t/p/w500/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
             "id": "tmdb941",
-            "cineselectRating": 5000,
-            "title": "Lethal Weapon",
-            "year": "1987",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/fTq4ThIP3pQTYR9eDepsbDHqdcs.jpg",
+            "title": "Lethal Weapon"
         },
         {
+            "cineselectRating": 9131,
             "imdb": "tt0113277",
-            "poster": "https://image.tmdb.org/t/p/w500/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+            "year": "1995",
+            "type": "movie",
             "rt": 84,
             "id": "tmdb949",
-            "cineselectRating": 9131,
-            "title": "Heat",
-            "year": "1995",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/umSVjVdbVwtx5ryCA2QXL44Durm.jpg",
+            "title": "Heat"
         },
         {
+            "type": "movie",
+            "cineselectRating": 5000,
+            "year": "2013",
             "imdb": "tt1979320",
             "rt": 89,
-            "poster": "https://image.tmdb.org/t/p/w500/kmusuTahCEBrTgdO69sY13gfxBw.jpg",
             "id": "tmdb96721",
-            "cineselectRating": 5000,
-            "title": "Rush",
-            "year": "2013",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/kmusuTahCEBrTgdO69sY13gfxBw.jpg",
+            "title": "Rush"
         },
         {
+            "cineselectRating": 9731,
+            "type": "movie",
+            "year": "2001",
             "imdb": "tt0212985",
             "rt": 39,
-            "poster": "https://image.tmdb.org/t/p/w500/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg",
             "id": "tmdb9740",
-            "cineselectRating": 9731,
-            "title": "Hannibal",
-            "year": "2001",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/v5wAZwRqpGWmyAaaJ8BBHYuNXnj.jpg",
+            "title": "Hannibal"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1998",
             "imdb": "tt0120660",
-            "poster": "https://image.tmdb.org/t/p/w500/x9pXrMKLsBGGOFyyZ0Gwt9YpVub.jpg",
             "rt": 0,
             "id": "tmdb9798",
-            "cineselectRating": 5000,
-            "title": "Enemy of the State",
-            "year": "1998",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/x9pXrMKLsBGGOFyyZ0Gwt9YpVub.jpg",
+            "title": "Enemy of the State"
         },
         {
+            "cineselectRating": 9691,
             "imdb": "tt0172495",
-            "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+            "year": "2000",
+            "type": "movie",
             "rt": 80,
             "id": "tmdb98",
-            "cineselectRating": 9691,
-            "title": "Gladiator",
-            "year": "2000",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/ty8TGRuvJLPUmAR1H1nRIsgwvim.jpg",
+            "title": "Gladiator"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1996",
             "imdb": "tt0117500",
-            "poster": "https://image.tmdb.org/t/p/w500/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg",
             "rt": 67,
             "id": "tmdb9802",
-            "cineselectRating": 5000,
-            "title": "The Rock",
-            "year": "1996",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/j5mxLNWjUlXUUk8weFBtnF4afIR.jpg",
+            "title": "The Rock"
         },
         {
+            "cineselectRating": 9461,
             "imdb": "tt0317705",
-            "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+            "year": "2004",
+            "type": "movie",
             "rt": 0,
             "id": "tmdb9806",
-            "cineselectRating": 9461,
-            "title": "The Incredibles",
-            "year": "2004",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/2LqaLgk4Z226KkgPJuiOQ58wvrm.jpg",
+            "title": "The Incredibles"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1971",
             "imdb": "tt0066999",
-            "poster": "https://image.tmdb.org/t/p/w500/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
             "rt": 0,
             "id": "tmdb984",
-            "cineselectRating": 5000,
-            "title": "Dirty Harry",
-            "year": "1971",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/scl2JDHzYoIEs5xyYy5ITCfyY0G.jpg",
+            "title": "Dirty Harry"
         },
         {
+            "cineselectRating": 5000,
+            "type": "movie",
+            "year": "1996",
             "imdb": "tt0115798",
-            "poster": "https://image.tmdb.org/t/p/w500/YJt9l3RdrRohI95btQKPXwpdii.jpg",
             "rt": 56,
             "id": "tmdb9894",
-            "cineselectRating": 5000,
-            "title": "The Cable Guy",
-            "year": "1996",
-            "type": "movie"
+            "poster": "https://image.tmdb.org/t/p/w500/YJt9l3RdrRohI95btQKPXwpdii.jpg",
+            "title": "The Cable Guy"
         }
     ],
     "shows": [
         {
+            "type": "series",
+            "cineselectRating": 9891,
+            "year": "2023",
             "imdb": "tt3581920",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
             "id": "tmdb100088",
-            "cineselectRating": 9891,
-            "title": "The Last of Us",
-            "year": "2023",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+            "title": "The Last of Us"
         },
         {
             "imdb": "tt0069658",
-            "poster": "https://image.tmdb.org/t/p/w500/5h58tbqpUhpdiQR1i4FawKWOidh.jpg",
+            "cineselectRating": 5000,
+            "year": "1973",
+            "type": "series",
             "rt": 0,
             "id": "tmdb1054",
-            "cineselectRating": 5000,
-            "title": "The Young and the Restless",
-            "year": "1973",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/5h58tbqpUhpdiQR1i4FawKWOidh.jpg",
+            "title": "The Young and the Restless"
         },
         {
+            "type": "series",
+            "cineselectRating": 5000,
+            "year": "2022",
             "imdb": "tt9813792",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
             "id": "tmdb124364",
-            "cineselectRating": 5000,
-            "title": "FROM",
-            "year": "2022",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/cjXLrg4R7FRPFafvuQ3SSznQOd9.jpg",
+            "title": "FROM"
         },
         {
-            "imdb": "tt0903747",
-            "rt": 96,
-            "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-            "id": "tmdb1396",
             "cineselectRating": 9990,
-            "title": "Breaking Bad",
+            "imdb": "tt0903747",
             "year": "2008",
-            "type": "series"
+            "type": "series",
+            "rt": 96,
+            "id": "tmdb1396",
+            "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+            "title": "Breaking Bad"
         },
         {
+            "type": "series",
+            "cineselectRating": 9551,
+            "year": "1999",
             "imdb": "tt0141842",
-            "poster": "https://image.tmdb.org/t/p/w500/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
             "rt": 0,
             "id": "tmdb1398",
-            "cineselectRating": 9551,
-            "title": "The Sopranos",
-            "year": "1999",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/rTc7ZXdroqjkKivFPvCPX0Ru7uw.jpg",
+            "title": "The Sopranos"
         },
         {
             "imdb": "tt0944947",
-            "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+            "type": "series",
+            "year": "2011",
+            "cineselectRating": 9501,
             "rt": 0,
             "id": "tmdb1399",
-            "cineselectRating": 9501,
-            "title": "Game of Thrones",
-            "year": "2011",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/1XS1oqL89opfnbLl8WnZY1O1uJx.jpg",
+            "title": "Game of Thrones"
         },
         {
+            "type": "series",
+            "cineselectRating": 9631,
+            "year": "2006",
             "imdb": "tt0773262",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
             "id": "tmdb1405",
-            "cineselectRating": 9631,
-            "title": "Dexter",
-            "year": "2006",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/q8dWfc4JwQuv3HayIZeO84jAXED.jpg",
+            "title": "Dexter"
         },
         {
+            "type": "series",
+            "cineselectRating": 9191,
+            "year": "2011",
             "imdb": "tt1796960",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
             "id": "tmdb1407",
-            "cineselectRating": 9191,
-            "title": "Homeland",
-            "year": "2011",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/6GAvS2e6VIRsms9FpVt33PsCoEW.jpg",
+            "title": "Homeland"
         },
         {
             "imdb": "tt0084967",
-            "poster": "https://image.tmdb.org/t/p/w500/p2qWJJ7Wyaq2xvgIHuBw4zVNBij.jpg",
+            "cineselectRating": 2621,
+            "year": "1983",
+            "type": "series",
             "rt": 0,
             "id": "tmdb1516",
-            "cineselectRating": 2621,
-            "title": "The A-Team",
-            "year": "1983",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/p2qWJJ7Wyaq2xvgIHuBw4zVNBij.jpg",
+            "title": "The A-Team"
         },
         {
+            "cineselectRating": 8451,
             "imdb": "tt0108778",
-            "poster": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+            "year": "1994",
+            "type": "series",
             "rt": 0,
             "id": "tmdb1668",
-            "cineselectRating": 8451,
-            "title": "Friends",
-            "year": "1994",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
+            "title": "Friends"
         },
         {
             "imdb": "tt0086759",
-            "poster": "https://image.tmdb.org/t/p/w500/b5kLqC6eDiA17nq3jr1Vi340Kns.jpg",
+            "cineselectRating": 1081,
+            "year": "1984",
+            "type": "series",
             "rt": 0,
             "id": "tmdb1908",
-            "cineselectRating": 1081,
-            "title": "Miami Vice",
-            "year": "1984",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/b5kLqC6eDiA17nq3jr1Vi340Kns.jpg",
+            "title": "Miami Vice"
         },
         {
+            "cineselectRating": 9521,
             "imdb": "tt0285331",
-            "poster": "https://image.tmdb.org/t/p/w500/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+            "year": "2001",
+            "type": "series",
             "rt": 0,
             "id": "tmdb1973",
-            "cineselectRating": 9521,
-            "title": "24",
-            "year": "2001",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
+            "title": "24"
         },
         {
             "imdb": "tt0088571",
-            "poster": "https://image.tmdb.org/t/p/w500/lrx6v9iD7WWkzkYMCvikvG3DIFp.jpg",
+            "cineselectRating": 1291,
+            "year": "1985",
+            "type": "series",
             "rt": 0,
             "id": "tmdb1998",
-            "cineselectRating": 1291,
-            "title": "Moonlighting",
-            "year": "1985",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/lrx6v9iD7WWkzkYMCvikvG3DIFp.jpg",
+            "title": "Moonlighting"
         },
         {
+            "type": "series",
+            "cineselectRating": 9561,
+            "year": "1997",
             "imdb": "tt0121955",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg",
             "id": "tmdb2190",
-            "cineselectRating": 9561,
-            "title": "South Park",
-            "year": "1997",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/xJnbMTrJ2fl1AXAKx34U4BPvOhs.jpg",
+            "title": "South Park"
         },
         {
+            "cineselectRating": 9311,
+            "type": "series",
+            "year": "2023",
             "imdb": "tt27713897",
-            "poster": "https://image.tmdb.org/t/p/w500/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg",
             "rt": 0,
             "id": "tmdb226135",
-            "cineselectRating": 9311,
-            "title": "Arnold",
-            "year": "2023",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg",
+            "title": "Arnold"
         },
         {
+            "type": "series",
             "imdb": "tt0455275",
-            "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
-            "id": "tmdb2288",
-            "cineselectRating": 8990,
-            "title": "Prison Break",
             "year": "2005",
-            "type": "series"
+            "cineselectRating": 8990,
+            "rt": 0,
+            "id": "tmdb2288",
+            "poster": "https://image.tmdb.org/t/p/w500/5E1BhkCgjLBlqx557Z5yzcN0i88.jpg",
+            "title": "Prison Break"
         },
         {
             "imdb": "tt0083437",
-            "poster": "https://image.tmdb.org/t/p/w500/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg",
+            "type": "series",
+            "year": "1982",
+            "cineselectRating": 3381,
             "rt": 0,
             "id": "tmdb2384",
-            "cineselectRating": 3381,
-            "title": "Knight Rider",
-            "year": "1982",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg",
+            "title": "Knight Rider"
         },
         {
+            "type": "series",
+            "cineselectRating": 5000,
+            "year": "2005",
             "imdb": "tt0417299",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
             "id": "tmdb246",
-            "cineselectRating": 5000,
-            "title": "Avatar: The Last Airbender",
-            "year": "2005",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/yaGt4GIutpbXHsv48tWceWg6s56.jpg",
+            "title": "Avatar: The Last Airbender"
         },
         {
+            "type": "series",
+            "cineselectRating": 9632,
+            "year": "2025",
             "imdb": "tt33043892",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
             "id": "tmdb259909",
-            "cineselectRating": 9632,
-            "title": "Dexter: Resurrection",
-            "year": "2025",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/hIawSocuwqgNeRf3JuKuxgMHmSC.jpg",
+            "title": "Dexter: Resurrection"
         },
         {
             "imdb": "tt0088559",
-            "poster": "https://image.tmdb.org/t/p/w500/zhgJNHbFxGkqdsKdkZLBrDWagOv.jpg",
+            "cineselectRating": 1931,
+            "year": "1985",
+            "type": "series",
             "rt": 0,
             "id": "tmdb2875",
-            "cineselectRating": 1931,
-            "title": "MacGyver",
-            "year": "1985",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/zhgJNHbFxGkqdsKdkZLBrDWagOv.jpg",
+            "title": "MacGyver"
         },
         {
+            "type": "series",
+            "cineselectRating": 9151,
+            "year": "2011",
             "imdb": "tt1806234",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/bjhP5yIeyWMRMxJdLjBuiIf255X.jpg",
             "id": "tmdb32062",
-            "cineselectRating": 9151,
-            "title": "Human Planet",
-            "year": "2011",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/bjhP5yIeyWMRMxJdLjBuiIf255X.jpg",
+            "title": "Human Planet"
         },
         {
             "imdb": "tt0077000",
-            "poster": "https://image.tmdb.org/t/p/w500/A1dupjBm7rXqBw2Dbz9WUsHoyxo.jpg",
+            "cineselectRating": 891,
+            "year": "1978",
+            "type": "series",
             "rt": 0,
             "id": "tmdb40",
-            "cineselectRating": 891,
-            "title": "Dallas",
-            "year": "1978",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/A1dupjBm7rXqBw2Dbz9WUsHoyxo.jpg",
+            "title": "Dallas"
         },
         {
+            "cineselectRating": 9431,
             "imdb": "tt0106179",
-            "poster": "https://image.tmdb.org/t/p/w500/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
+            "year": "1993",
+            "type": "series",
             "rt": 0,
             "id": "tmdb4087",
-            "cineselectRating": 9431,
-            "title": "The X-Files",
-            "year": "1993",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
+            "title": "The X-Files"
         },
         {
             "imdb": "tt2085059",
-            "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+            "type": "series",
+            "year": "2011",
+            "cineselectRating": 9260,
             "rt": 0,
             "id": "tmdb42009",
-            "cineselectRating": 9260,
-            "title": "Black Mirror",
-            "year": "2011",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/seN6rRfN0I6n8iDXjlSMk1QjNcq.jpg",
+            "title": "Black Mirror"
         },
         {
             "imdb": "tt0092400",
-            "poster": "https://image.tmdb.org/t/p/w500/qxdOgESOkBMmfcWUizL01mbdqzl.jpg",
+            "cineselectRating": 3271,
+            "year": "1987",
+            "type": "series",
             "rt": 0,
             "id": "tmdb4239",
-            "cineselectRating": 3271,
-            "title": "Married... with Children",
-            "year": "1987",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/qxdOgESOkBMmfcWUizL01mbdqzl.jpg",
+            "title": "Married... with Children"
         },
         {
+            "type": "series",
+            "cineselectRating": 9371,
+            "year": "1990",
             "imdb": "tt0096657",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/pUNQV35kDaKuejnXGNiUeEBurNE.jpg",
             "id": "tmdb4327",
-            "cineselectRating": 9371,
-            "title": "Mr. Bean",
-            "year": "1990",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/pUNQV35kDaKuejnXGNiUeEBurNE.jpg",
+            "title": "Mr. Bean"
         },
         {
+            "type": "series",
+            "cineselectRating": 9321,
+            "year": "1989",
             "imdb": "tt0096697",
             "rt": 85,
-            "poster": "https://image.tmdb.org/t/p/w500/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
             "id": "tmdb456",
-            "cineselectRating": 9321,
-            "title": "The Simpsons",
-            "year": "1989",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/vHqeLzYl3dEAutojCO26g0LIkom.jpg",
+            "title": "The Simpsons"
         },
         {
+            "type": "series",
+            "cineselectRating": 9531,
+            "year": "2001",
             "imdb": "tt0279600",
-            "poster": "https://image.tmdb.org/t/p/w500/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
             "rt": 0,
             "id": "tmdb4604",
-            "cineselectRating": 9531,
-            "title": "Smallville",
-            "year": "2001",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/pUhJGETy2sec4vEkiqJ9eGeIywc.jpg",
+            "title": "Smallville"
         },
         {
+            "type": "series",
             "imdb": "tt0411008",
-            "rt": 80,
-            "poster": "https://image.tmdb.org/t/p/w500/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
-            "id": "tmdb4607",
-            "cineselectRating": 9431,
-            "title": "Lost",
             "year": "2004",
-            "type": "series"
+            "cineselectRating": 9431,
+            "rt": 80,
+            "id": "tmdb4607",
+            "poster": "https://image.tmdb.org/t/p/w500/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+            "title": "Lost"
         },
         {
             "imdb": "tt0090390",
-            "poster": "https://image.tmdb.org/t/p/w500/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg",
+            "cineselectRating": 1491,
+            "year": "1986",
+            "type": "series",
             "rt": 0,
             "id": "tmdb4658",
-            "cineselectRating": 1491,
-            "title": "ALF",
-            "year": "1986",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg",
+            "title": "ALF"
         },
         {
             "imdb": "tt0096635",
-            "poster": "https://image.tmdb.org/t/p/w500/6a27QlSY2oC87OGX48lUp0J9SiK.jpg",
+            "cineselectRating": 2681,
+            "year": "1989",
+            "type": "series",
             "rt": 0,
             "id": "tmdb5299",
-            "cineselectRating": 2681,
-            "title": "Life Goes On",
-            "year": "1989",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/6a27QlSY2oC87OGX48lUp0J9SiK.jpg",
+            "title": "Life Goes On"
         },
         {
             "imdb": "tt0086681",
-            "poster": "https://image.tmdb.org/t/p/w500/sM3nBqh3iSjPTBMtIFyWnROVLIz.jpg",
+            "cineselectRating": 341,
+            "year": "1984",
+            "type": "series",
             "rt": 0,
             "id": "tmdb566",
-            "cineselectRating": 341,
-            "title": "Charles in Charge",
-            "year": "1984",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/sM3nBqh3iSjPTBMtIFyWnROVLIz.jpg",
+            "title": "Charles in Charge"
         },
         {
+            "type": "series",
+            "cineselectRating": 9391,
+            "year": "2014",
             "imdb": "tt2395695",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
             "id": "tmdb58474",
-            "cineselectRating": 9391,
-            "title": "Cosmos",
-            "year": "2014",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
+            "title": "Cosmos"
         },
         {
             "imdb": "tt3032476",
-            "poster": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+            "type": "series",
+            "year": "2015",
+            "cineselectRating": 9960,
             "rt": 0,
             "id": "tmdb60059",
-            "cineselectRating": 9960,
-            "title": "Better Call Saul",
-            "year": "2015",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/zjg4jpK1Wp2kiRvtt5ND0kznako.jpg",
+            "title": "Better Call Saul"
         },
         {
             "imdb": "tt3205802",
-            "poster": "https://image.tmdb.org/t/p/w500/bJs8Y6T88NcgksxA8UaVl4YX8p8.jpg",
+            "cineselectRating": 9581,
+            "year": "2014",
+            "type": "series",
             "rt": 0,
             "id": "tmdb61056",
-            "cineselectRating": 9581,
-            "title": "How to Get Away with Murder",
-            "year": "2014",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/bJs8Y6T88NcgksxA8UaVl4YX8p8.jpg",
+            "title": "How to Get Away with Murder"
         },
         {
             "imdb": "tt3596174",
-            "poster": "https://image.tmdb.org/t/p/w500/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
+            "type": "series",
+            "year": "2014",
+            "cineselectRating": 4651,
             "rt": 0,
             "id": "tmdb61852",
-            "cineselectRating": 4651,
-            "title": "Henry Danger",
-            "year": "2014",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
+            "title": "Henry Danger"
         },
         {
             "imdb": "tt3596176",
-            "poster": "https://image.tmdb.org/t/p/w500/nBkA2uXAaySBmlrinn5KroFZn94.jpg",
+            "type": "series",
+            "year": "2014",
+            "cineselectRating": 1351,
             "rt": 0,
             "id": "tmdb61854",
-            "cineselectRating": 1351,
-            "title": "Nicky, Ricky, Dicky & Dawn",
-            "year": "2014",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/nBkA2uXAaySBmlrinn5KroFZn94.jpg",
+            "title": "Nicky, Ricky, Dicky & Dawn"
         },
         {
+            "type": "series",
+            "cineselectRating": 9771,
+            "year": "2015",
             "imdb": "tt4158110",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
             "id": "tmdb62560",
-            "cineselectRating": 9771,
-            "title": "Mr. Robot",
-            "year": "2015",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+            "title": "Mr. Robot"
         },
         {
             "imdb": "tt2707408",
-            "poster": "https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+            "type": "series",
+            "year": "2015",
+            "cineselectRating": 9050,
             "rt": 0,
             "id": "tmdb63351",
-            "cineselectRating": 9050,
-            "title": "Narcos",
-            "year": "2015",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+            "title": "Narcos"
         },
         {
+            "type": "series",
+            "cineselectRating": 9711,
+            "year": "2016",
             "imdb": "tt4786824",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg",
             "id": "tmdb65494",
-            "cineselectRating": 9711,
-            "title": "The Crown",
-            "year": "2016",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/1DDE0Z2Y805rqfkEjPbZsMLyPwa.jpg",
+            "title": "The Crown"
         },
         {
             "imdb": "tt0092455",
-            "poster": "https://image.tmdb.org/t/p/w500/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+            "cineselectRating": 2601,
+            "year": "1987",
+            "type": "series",
             "rt": 0,
             "id": "tmdb655",
-            "cineselectRating": 2601,
-            "title": "Star Trek: The Next Generation",
-            "year": "1987",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
+            "title": "Star Trek: The Next Generation"
         },
         {
+            "cineselectRating": 9451,
+            "type": "series",
+            "year": "2016",
             "imdb": "tt4574334",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
             "id": "tmdb66732",
-            "cineselectRating": 9451,
-            "title": "Stranger Things",
-            "year": "2016",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
+            "title": "Stranger Things"
         },
         {
             "imdb": "tt5071412",
-            "poster": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg",
+            "type": "series",
+            "year": "2017",
+            "cineselectRating": 9040,
             "rt": 0,
             "id": "tmdb69740",
-            "cineselectRating": 9040,
-            "title": "Ozark",
-            "year": "2017",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/m73bD8VjibSKuTWg597GQVyVhSb.jpg",
+            "title": "Ozark"
         },
         {
+            "type": "series",
+            "cineselectRating": 9631,
+            "year": "2017",
             "imdb": "tt5753856",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/1DLjjvSWMYo17B7wuz6YikB96hH.jpg",
             "id": "tmdb70523",
-            "cineselectRating": 9631,
-            "title": "Dark",
-            "year": "2017",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/1DLjjvSWMYo17B7wuz6YikB96hH.jpg",
+            "title": "Dark"
         },
         {
+            "type": "series",
+            "cineselectRating": 9701,
+            "year": "2019",
             "imdb": "tt7366338",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
             "id": "tmdb87108",
-            "cineselectRating": 9701,
-            "title": "Chernobyl",
-            "year": "2019",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/hlLXt2tOPT6RRnjiUmoxyG1LTFi.jpg",
+            "title": "Chernobyl"
         },
         {
             "imdb": "tt5952634",
-            "poster": "https://image.tmdb.org/t/p/w500/bCGC6cAEKzm45J7SPsApAnp9mNx.jpg",
+            "type": "series",
+            "year": "2019",
+            "cineselectRating": 9201,
             "rt": 0,
             "id": "tmdb91725",
-            "cineselectRating": 9201,
-            "title": "The Spy",
-            "year": "2019",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/bCGC6cAEKzm45J7SPsApAnp9mNx.jpg",
+            "title": "The Spy"
         },
         {
             "imdb": "tt0081858",
-            "poster": "https://image.tmdb.org/t/p/w500/rgcKhBsHwAlPpeJG9yKip5oWVo9.jpg",
+            "cineselectRating": 2811,
+            "year": "1981",
+            "type": "series",
             "rt": 0,
             "id": "tmdb93",
-            "cineselectRating": 2811,
-            "title": "Falcon Crest",
-            "year": "1981",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/rgcKhBsHwAlPpeJG9yKip5oWVo9.jpg",
+            "title": "Falcon Crest"
         },
         {
             "imdb": "tt10919420",
-            "poster": "https://image.tmdb.org/t/p/w500/onV0JoOJeiUHG1rfpB2lFTVw1vN.jpg",
+            "cineselectRating": 9821,
+            "year": "2021",
+            "type": "series",
             "rt": 0,
             "id": "tmdb93405",
-            "cineselectRating": 9821,
-            "title": "Squid Game",
-            "year": "2021",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/onV0JoOJeiUHG1rfpB2lFTVw1vN.jpg",
+            "title": "Squid Game"
         },
         {
+            "type": "series",
+            "cineselectRating": 9371,
+            "year": "2022",
             "imdb": "tt11280740",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
             "id": "tmdb95396",
-            "cineselectRating": 9371,
-            "title": "Severance",
-            "year": "2022",
-            "type": "series"
+            "poster": "https://image.tmdb.org/t/p/w500/pPHpeI2X1qEd1CS1SeyrdhZ4qnT.jpg",
+            "title": "Severance"
         }
     ]
 }
