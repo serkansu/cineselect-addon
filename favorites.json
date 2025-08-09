@@ -96,9 +96,9 @@
             "year": "2001",
             "title": "Conspiracy",
             "poster": "https://image.tmdb.org/t/p/w500/Onqn8XXyhANuy1LIL7AIN6unQk.jpg",
-            "imdb": "tt0266425",
             "id": "tmdb12900",
-            "cineselectRating": 9651
+            "cineselectRating": 9651,
+            "imdb": "tt0266425"
         },
         {
             "rt": 75,
@@ -216,9 +216,9 @@
             "type": "movie",
             "title": "Die Hard 2",
             "poster": "https://image.tmdb.org/t/p/w500/lDFO7D4MdbhjOwaPwe18QG69Rt0.jpg",
-            "imdb": "tt0099423",
             "id": "tmdb1573",
-            "cineselectRating": 9761
+            "cineselectRating": 9761,
+            "imdb": "tt0099423"
         },
         {
             "rt": 73,
@@ -257,8 +257,8 @@
             "title": "The Island",
             "poster": "https://image.tmdb.org/t/p/w500/juSBGCTK463as9clAea4mE2N3s0.jpg",
             "cineselectRating": 5000,
-            "imdb": "tt0399201",
-            "id": "tmdb1635"
+            "id": "tmdb1635",
+            "imdb": "tt0399201"
         },
         {
             "rt": 64,
@@ -282,13 +282,13 @@
         },
         {
             "rt": 0,
-            "type": "movie",
             "year": "2004",
+            "type": "movie",
             "title": "Saw",
             "poster": "https://image.tmdb.org/t/p/w500/rLNSOudrayDBo1uqXjrhxcjODIC.jpg",
             "cineselectRating": 9461,
-            "imdb": "tt0387564",
-            "id": "tmdb176"
+            "id": "tmdb176",
+            "imdb": "tt0387564"
         },
         {
             "rt": 0,
@@ -477,8 +477,8 @@
             "title": "Lucy",
             "poster": "https://image.tmdb.org/t/p/w500/kRbpUTRNm6QbLQFPFWUcNC4czEm.jpg",
             "cineselectRating": 5000,
-            "imdb": "tt2872732",
-            "id": "tmdb240832"
+            "id": "tmdb240832",
+            "imdb": "tt2872732"
         },
         {
             "rt": 94,
@@ -537,8 +537,8 @@
             "title": "The Abyss",
             "poster": "https://image.tmdb.org/t/p/w500/2dCit3XAtv9KWCJvRKdPkJ0FAkH.jpg",
             "cineselectRating": 9731,
-            "imdb": "tt0096754",
-            "id": "tmdb2756"
+            "id": "tmdb2756",
+            "imdb": "tt0096754"
         },
         {
             "rt": 0,
@@ -746,9 +746,9 @@
             "year": "2004",
             "title": "The Machinist",
             "poster": "https://image.tmdb.org/t/p/w500/diAYqR4xdF9Hnj7qun6DEQhRrT2.jpg",
-            "imdb": "tt0361862",
             "id": "tmdb4553",
-            "cineselectRating": 8651
+            "cineselectRating": 8651,
+            "imdb": "tt0361862"
         },
         {
             "rt": 68,
@@ -766,9 +766,9 @@
             "type": "movie",
             "title": "A Good Day to Die Hard",
             "poster": "https://image.tmdb.org/t/p/w500/qJ0csDXAVFMsNn0cRcjy6W6PxAK.jpg",
-            "imdb": "tt1606378",
             "id": "tmdb47964",
-            "cineselectRating": 9711
+            "cineselectRating": 9711,
+            "imdb": "tt1606378"
         },
         {
             "rt": 56,
@@ -786,9 +786,9 @@
             "type": "movie",
             "title": "The World at War: The Making of the Series",
             "poster": "https://image.tmdb.org/t/p/w500/nDE3fQ4yzQpF8kuEBTWg0KQG7iD.jpg",
-            "imdb": "tt1816012",
+            "id": "tmdb489268",
             "cineselectRating": 9431,
-            "id": "tmdb489268"
+            "imdb": "tt1816012"
         },
         {
             "rt": 87,
@@ -887,8 +887,8 @@
             "title": "Starship Troopers",
             "poster": "https://image.tmdb.org/t/p/w500/cxCmv23O7p3hyHwqoktHYkZcGsY.jpg",
             "cineselectRating": 8991,
-            "imdb": "tt0120201",
-            "id": "tmdb563"
+            "id": "tmdb563",
+            "imdb": "tt0120201"
         },
         {
             "rt": 56,
@@ -1072,13 +1072,13 @@
         },
         {
             "rt": 0,
-            "type": "movie",
             "year": "1998",
+            "type": "movie",
             "title": "American History X",
             "poster": "https://image.tmdb.org/t/p/w500/x2drgoXYZ8484lqyDj7L1CEVR4T.jpg",
             "cineselectRating": 8471,
-            "imdb": "tt0120586",
-            "id": "tmdb73"
+            "id": "tmdb73",
+            "imdb": "tt0120586"
         },
         {
             "rt": 59,
@@ -1092,13 +1092,13 @@
         },
         {
             "rt": 0,
-            "type": "movie",
             "year": "1999",
+            "type": "movie",
             "title": "The Sixth Sense",
             "poster": "https://image.tmdb.org/t/p/w500/vOyfUXNFSnaTk7Vk5AjpsKTUWsu.jpg",
             "cineselectRating": 8451,
-            "imdb": "tt0167404",
-            "id": "tmdb745"
+            "id": "tmdb745",
+            "imdb": "tt0167404"
         },
         {
             "rt": 0,
@@ -1112,13 +1112,13 @@
         },
         {
             "rt": 0,
-            "type": "movie",
             "year": "2000",
+            "type": "movie",
             "title": "Memento",
             "poster": "https://image.tmdb.org/t/p/w500/fKTPH2WvH8nHTXeBYBVhawtRqtR.jpg",
             "cineselectRating": 9261,
-            "imdb": "tt0209144",
-            "id": "tmdb77"
+            "id": "tmdb77",
+            "imdb": "tt0209144"
         },
         {
             "rt": 84,
@@ -1333,12 +1333,6 @@
     ],
     "shows": [
         {
-            "imdb": 8.7,
-            "year": 1999,
-            "title": "The Matrix",
-            "type": "movie\n"
-        },
-        {
             "rt": 0,
             "year": "2023",
             "type": "show",
@@ -1354,9 +1348,9 @@
             "year": "1973",
             "title": "The Young and the Restless",
             "poster": "https://image.tmdb.org/t/p/w500/5h58tbqpUhpdiQR1i4FawKWOidh.jpg",
-            "imdb": "tt0069658",
             "id": "tmdb1054",
-            "cineselectRating": 5000
+            "cineselectRating": 5000,
+            "imdb": "tt0069658"
         },
         {
             "rt": 0,
@@ -1424,19 +1418,19 @@
             "year": "1983",
             "title": "The A-Team",
             "poster": "https://image.tmdb.org/t/p/w500/p2qWJJ7Wyaq2xvgIHuBw4zVNBij.jpg",
-            "imdb": "tt0084967",
             "id": "tmdb1516",
-            "cineselectRating": 2621
+            "cineselectRating": 2621,
+            "imdb": "tt0084967"
         },
         {
             "rt": 0,
-            "type": "show",
             "year": "1994",
+            "type": "show",
             "title": "Friends",
             "poster": "https://image.tmdb.org/t/p/w500/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",
             "cineselectRating": 8451,
-            "imdb": "tt0108778",
-            "id": "tmdb1668"
+            "id": "tmdb1668",
+            "imdb": "tt0108778"
         },
         {
             "rt": 0,
@@ -1444,19 +1438,19 @@
             "year": "1984",
             "title": "Miami Vice",
             "poster": "https://image.tmdb.org/t/p/w500/b5kLqC6eDiA17nq3jr1Vi340Kns.jpg",
-            "imdb": "tt0086759",
             "id": "tmdb1908",
-            "cineselectRating": 1081
+            "cineselectRating": 1081,
+            "imdb": "tt0086759"
         },
         {
             "rt": 0,
-            "type": "show",
             "year": "2001",
+            "type": "show",
             "title": "24",
             "poster": "https://image.tmdb.org/t/p/w500/iq6yrZ5LEDXf1ArCOYLq8PIUBpV.jpg",
             "cineselectRating": 9521,
-            "imdb": "tt0285331",
-            "id": "tmdb1973"
+            "id": "tmdb1973",
+            "imdb": "tt0285331"
         },
         {
             "rt": 0,
@@ -1464,9 +1458,9 @@
             "year": "1985",
             "title": "Moonlighting",
             "poster": "https://image.tmdb.org/t/p/w500/lrx6v9iD7WWkzkYMCvikvG3DIFp.jpg",
-            "imdb": "tt0088571",
             "id": "tmdb1998",
-            "cineselectRating": 1291
+            "cineselectRating": 1291,
+            "imdb": "tt0088571"
         },
         {
             "rt": 0,
@@ -1504,9 +1498,9 @@
             "year": "1982",
             "title": "Knight Rider",
             "poster": "https://image.tmdb.org/t/p/w500/t57NXzTrwp5rnPXiaX4BThrDxt1.jpg",
-            "imdb": "tt0083437",
             "id": "tmdb2384",
-            "cineselectRating": 3381
+            "cineselectRating": 3381,
+            "imdb": "tt0083437"
         },
         {
             "rt": 0,
@@ -1534,9 +1528,9 @@
             "year": "1985",
             "title": "MacGyver",
             "poster": "https://image.tmdb.org/t/p/w500/zhgJNHbFxGkqdsKdkZLBrDWagOv.jpg",
-            "imdb": "tt0088559",
             "id": "tmdb2875",
-            "cineselectRating": 1931
+            "cineselectRating": 1931,
+            "imdb": "tt0088559"
         },
         {
             "rt": 0,
@@ -1554,19 +1548,19 @@
             "year": "1978",
             "title": "Dallas",
             "poster": "https://image.tmdb.org/t/p/w500/A1dupjBm7rXqBw2Dbz9WUsHoyxo.jpg",
-            "imdb": "tt0077000",
             "id": "tmdb40",
-            "cineselectRating": 891
+            "cineselectRating": 891,
+            "imdb": "tt0077000"
         },
         {
             "rt": 0,
-            "type": "show",
             "year": "1993",
+            "type": "show",
             "title": "The X-Files",
             "poster": "https://image.tmdb.org/t/p/w500/rcBx0p8h51LHceyhquYMxbspJQu.jpg",
             "cineselectRating": 9431,
-            "imdb": "tt0106179",
-            "id": "tmdb4087"
+            "id": "tmdb4087",
+            "imdb": "tt0106179"
         },
         {
             "rt": 0,
@@ -1584,9 +1578,9 @@
             "year": "1987",
             "title": "Married... with Children",
             "poster": "https://image.tmdb.org/t/p/w500/qxdOgESOkBMmfcWUizL01mbdqzl.jpg",
-            "imdb": "tt0092400",
             "id": "tmdb4239",
-            "cineselectRating": 3271
+            "cineselectRating": 3271,
+            "imdb": "tt0092400"
         },
         {
             "rt": 0,
@@ -1634,9 +1628,9 @@
             "year": "1986",
             "title": "ALF",
             "poster": "https://image.tmdb.org/t/p/w500/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg",
-            "imdb": "tt0090390",
             "id": "tmdb4658",
-            "cineselectRating": 1491
+            "cineselectRating": 1491,
+            "imdb": "tt0090390"
         },
         {
             "rt": 0,
@@ -1644,9 +1638,9 @@
             "year": "1989",
             "title": "Life Goes On",
             "poster": "https://image.tmdb.org/t/p/w500/6a27QlSY2oC87OGX48lUp0J9SiK.jpg",
-            "imdb": "tt0096635",
             "id": "tmdb5299",
-            "cineselectRating": 2681
+            "cineselectRating": 2681,
+            "imdb": "tt0096635"
         },
         {
             "rt": 0,
@@ -1654,14 +1648,14 @@
             "year": "1984",
             "title": "Charles in Charge",
             "poster": "https://image.tmdb.org/t/p/w500/sM3nBqh3iSjPTBMtIFyWnROVLIz.jpg",
-            "imdb": "tt0086681",
             "id": "tmdb566",
-            "cineselectRating": 341
+            "cineselectRating": 341,
+            "imdb": "tt0086681"
         },
         {
             "rt": 0,
-            "year": "2014",
             "type": "show",
+            "year": "2014",
             "title": "Cosmos",
             "poster": "https://image.tmdb.org/t/p/w500/5o07ps0QZ0bNoRYxTn9cPdRWlUu.jpg",
             "cineselectRating": 9391,
@@ -1694,9 +1688,9 @@
             "type": "show",
             "title": "Henry Danger",
             "poster": "https://image.tmdb.org/t/p/w500/f3TEP5SROTpL6e520ohhSNbUv1E.jpg",
-            "imdb": "tt3596174",
             "cineselectRating": 4651,
-            "id": "tmdb61852"
+            "id": "tmdb61852",
+            "imdb": "tt3596174"
         },
         {
             "rt": 0,
@@ -1704,9 +1698,9 @@
             "type": "show",
             "title": "Nicky, Ricky, Dicky & Dawn",
             "poster": "https://image.tmdb.org/t/p/w500/nBkA2uXAaySBmlrinn5KroFZn94.jpg",
-            "imdb": "tt3596176",
             "cineselectRating": 1351,
-            "id": "tmdb61854"
+            "id": "tmdb61854",
+            "imdb": "tt3596176"
         },
         {
             "rt": 0,
@@ -1744,9 +1738,9 @@
             "year": "1987",
             "title": "Star Trek: The Next Generation",
             "poster": "https://image.tmdb.org/t/p/w500/vkLzXddgUKH5VcpnYiRzpJFrZhz.jpg",
-            "imdb": "tt0092455",
             "id": "tmdb655",
-            "cineselectRating": 2601
+            "cineselectRating": 2601,
+            "imdb": "tt0092455"
         },
         {
             "rt": 0,
@@ -1755,8 +1749,8 @@
             "title": "Stranger Things",
             "poster": "https://image.tmdb.org/t/p/w500/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg",
             "cineselectRating": 9451,
-            "imdb": "tt4574334",
-            "id": "tmdb66732"
+            "id": "tmdb66732",
+            "imdb": "tt4574334"
         },
         {
             "rt": 0,
@@ -1804,9 +1798,9 @@
             "year": "1981",
             "title": "Falcon Crest",
             "poster": "https://image.tmdb.org/t/p/w500/rgcKhBsHwAlPpeJG9yKip5oWVo9.jpg",
-            "imdb": "tt0081858",
             "id": "tmdb93",
-            "cineselectRating": 2811
+            "cineselectRating": 2811,
+            "imdb": "tt0081858"
         },
         {
             "rt": 0,
@@ -1814,9 +1808,9 @@
             "year": "2021",
             "title": "Squid Game",
             "poster": "https://image.tmdb.org/t/p/w500/onV0JoOJeiUHG1rfpB2lFTVw1vN.jpg",
-            "imdb": "tt10919420",
             "cineselectRating": 9821,
-            "id": "tmdb93405"
+            "id": "tmdb93405",
+            "imdb": "tt10919420"
         },
         {
             "rt": 0,
