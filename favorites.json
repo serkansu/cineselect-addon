@@ -1629,6 +1629,16 @@
             "year": "2004"
         },
         {
+            "poster": "https://image.tmdb.org/t/p/w500/8JMXquNmdMUy2n2RgW8gfOM0O3l.jpg",
+            "cineselectRating": 7951,
+            "id": "tmdb4613",
+            "type": "show",
+            "rt": 0,
+            "title": "Band of Brothers",
+            "imdb": "tt0185906",
+            "year": "2001"
+        },
+        {
             "poster": "https://image.tmdb.org/t/p/w500/shRed7ZrCRjdIMEYNx2YBVFkkNu.jpg",
             "cineselectRating": 1491,
             "id": "tmdb4658",
