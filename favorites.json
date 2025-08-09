@@ -1052,7 +1052,7 @@
         },
         {
             "type": "movie",
-            "year": 1959,
+            "year": "1959",
             "rt": 89,
             "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
             "id": "tt0052618",
