@@ -1051,13 +1051,13 @@
             "poster": "https://image.tmdb.org/t/p/w500/a07wLy4ONfpsjnBqMwhlWTJTcm.jpg"
         },
         {
-            "cineselectRating": 821,
-            "type": "movie",
+            "cineselectRating": 10000,
             "year": "1959",
+            "type": "movie",
             "imdb": "tt0052618",
             "id": "tmdb665",
             "title": "Ben-Hur",
-            "rt": 87,
+            "rt": 0,
             "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg"
         },
         {
@@ -1271,13 +1271,13 @@
             "poster": "https://image.tmdb.org/t/p/w500/umSVjVdbVwtx5ryCA2QXL44Durm.jpg"
         },
         {
-            "cineselectRating": 5000,
-            "type": "movie",
+            "cineselectRating": 10000,
             "year": "2013",
+            "type": "movie",
             "imdb": "tt1979320",
             "id": "tmdb96721",
             "title": "Rush",
-            "rt": 89,
+            "rt": 0,
             "poster": "https://image.tmdb.org/t/p/w500/kmusuTahCEBrTgdO69sY13gfxBw.jpg"
         },
         {
