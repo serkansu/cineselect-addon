@@ -1,12 +1,6 @@
 {
     "movies": [
         {
-            "title": "The Matrix",
-            "year": 1999,
-            "type": "movie",
-            "imdb": "tt0133093"
-        },
-        {
             "cineselectRating": 5000,
             "type": "movie",
             "year": "2023",
