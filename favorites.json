@@ -1,116 +1,138 @@
 {
     "movies": [
         {
-            "type": "movie",
+            "rt": 89,
             "imdb": "tt1979320",
+            "cineselectRating": 9691,
+            "id": "tmdb96721",
+            "type": "movie",
+            "year": "2013",
             "poster": "https://image.tmdb.org/t/p/w500/kmusuTahCEBrTgdO69sY13gfxBw.jpg",
             "imdbRating": 8.1,
-            "id": "tmdb96721",
-            "title": "Rush",
+            "title": "Rush"
+        },
+        {
+            "rt": 74,
+            "imdb": "tt0317219",
             "cineselectRating": 9691,
-            "rt": 89,
-            "year": "2013"
+            "id": "tmdb920",
+            "type": "movie",
+            "year": "2006",
+            "poster": "https://image.tmdb.org/t/p/w500/u4G8EkiIBZYx0wEg2xDlXZigTOZ.jpg",
+            "title": "Cars",
+            "imdbRating": 7.3
         },
         {
-            "type": "movie",
-            "imdb": "tt0482571",
-            "poster": "https://image.tmdb.org/t/p/w500/a03qYIZM0zkEutN5JRZddTBmQqY.jpg",
-            "imdbRating": 8.5,
-            "id": "tmdb1124",
-            "title": "The Prestige",
-            "cineselectRating": 9121,
             "rt": 77,
-            "year": "2006"
+            "imdb": "tt0482571",
+            "cineselectRating": 9121,
+            "id": "tmdb1124",
+            "type": "movie",
+            "year": "2006",
+            "poster": "https://image.tmdb.org/t/p/w500/a03qYIZM0zkEutN5JRZddTBmQqY.jpg",
+            "title": "The Prestige",
+            "imdbRating": 8.5
         },
         {
-            "type": "movie",
+            "rt": 76,
             "imdb": "tt0112573",
+            "type": "movie",
+            "id": "tmdb197",
+            "cineselectRating": 9681,
+            "year": "1995",
             "poster": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
             "imdbRating": 8.3,
-            "id": "tmdb197",
-            "title": "Braveheart",
-            "cineselectRating": 9681,
-            "rt": 76,
-            "year": "1995"
+            "title": "Braveheart"
         },
         {
-            "type": "movie",
+            "rt": 92,
             "imdb": "tt0110912",
+            "cineselectRating": 5000,
+            "id": "tmdb680",
+            "type": "movie",
+            "year": "1994",
             "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
             "imdbRating": 8.9,
-            "id": "tmdb680",
-            "cineselectRating": 5000,
-            "title": "Pulp Fiction",
-            "rt": 92,
-            "year": "1994"
+            "title": "Pulp Fiction"
         },
         {
-            "type": "movie",
-            "imdb": "tt0088247",
-            "poster": "https://image.tmdb.org/t/p/w500/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
-            "imdbRating": 8.1,
-            "id": "tmdb218",
-            "cineselectRating": 5000,
-            "title": "The Terminator",
             "rt": 100,
-            "year": "1984"
+            "imdb": "tt0088247",
+            "cineselectRating": 5000,
+            "id": "tmdb218",
+            "type": "movie",
+            "year": "1984",
+            "poster": "https://image.tmdb.org/t/p/w500/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
+            "title": "The Terminator",
+            "imdbRating": 8.1
         },
         {
-            "type": "movie",
-            "imdb": "tt0103064",
-            "poster": "https://image.tmdb.org/t/p/w500/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
-            "imdbRating": 8.6,
-            "id": "tmdb280",
-            "cineselectRating": 5000,
-            "title": "Terminator 2: Judgment Day",
             "rt": 91,
-            "year": "1991"
-        },
-        {
-            "type": "movie",
-            "imdb": "tt0181852",
-            "poster": "https://image.tmdb.org/t/p/w500/vvevzdYIrk2636maNW4qeWmlPFG.jpg",
-            "imdbRating": 6.3,
-            "id": "tmdb296",
+            "imdb": "tt0103064",
             "cineselectRating": 5000,
-            "title": "Terminator 3: Rise of the Machines",
-            "rt": 70,
-            "year": "2003"
+            "id": "tmdb280",
+            "type": "movie",
+            "year": "1991",
+            "poster": "https://image.tmdb.org/t/p/w500/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+            "title": "Terminator 2: Judgment Day",
+            "imdbRating": 8.6
         },
         {
+            "rt": 70,
+            "imdb": "tt0181852",
+            "cineselectRating": 5000,
+            "id": "tmdb296",
             "type": "movie",
+            "year": "2003",
+            "poster": "https://image.tmdb.org/t/p/w500/vvevzdYIrk2636maNW4qeWmlPFG.jpg",
+            "title": "Terminator 3: Rise of the Machines",
+            "imdbRating": 6.3
+        },
+        {
+            "rt": 93,
+            "imdb": "tt0078748",
+            "cineselectRating": 9621,
+            "id": "tmdb348",
+            "type": "movie",
+            "year": "1979",
+            "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
+            "title": "Alien",
+            "imdbRating": 8.5
+        },
+        {
+            "rt": 89,
             "imdb": "tt0052618",
+            "cineselectRating": 8641,
+            "id": "tmdb665",
+            "type": "movie",
+            "year": "1959",
             "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
             "imdbRating": 8.1,
-            "id": "tmdb665",
-            "cineselectRating": 8641,
-            "title": "Ben-Hur",
-            "rt": 89,
-            "year": "1959"
+            "title": "Ben-Hur"
         }
     ],
     "series": [
         {
-            "type": "show",
+            "rt": 96,
             "imdb": "tt3581920",
+            "cineselectRating": 5000,
+            "id": "tmdb100088",
+            "type": "show",
+            "year": "2023",
             "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
             "imdbRating": 8.8,
-            "id": "tmdb100088",
-            "cineselectRating": 5000,
-            "title": "The Last of Us",
-            "rt": 96,
-            "year": "2023"
+            "title": "The Last of Us"
         },
         {
-            "type": "show",
-            "imdb": "tt0411008",
-            "poster": "https://image.tmdb.org/t/p/w500/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
-            "imdbRating": 8.3,
-            "id": "tmdb4607",
-            "title": "Lost",
-            "cineselectRating": 9961,
             "rt": 80,
-            "year": "2004"
+            "imdb": "tt0411008",
+            "cineselectRating": 9961,
+            "id": "tmdb4607",
+            "type": "show",
+            "year": "2004",
+            "poster": "https://image.tmdb.org/t/p/w500/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
+            "title": "Lost",
+            "imdbRating": 8.3
         }
     ]
 }
