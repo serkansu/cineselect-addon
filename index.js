@@ -14,19 +14,8 @@ function getYears(list) {
 }
 
 // These are the same for both movie and series
-const sortFieldOptions = [
-  { value: "default", name: "Default" },
-  { value: "cineselect", name: "CineSelect Score" },
-  { value: "imdb", name: "IMDb Rating" },
-  { value: "rt", name: "RottenTomatoes" },
-  { value: "year", name: "Year" },
-  { value: "title_az", name: "Title A-Z" },
-  { value: "title_za", name: "Title Z-A" }
-];
-const sortOrderOptions = [
-  { value: "desc", name: "Descending" },
-  { value: "asc", name: "Ascending" }
-];
+const sortFieldOptions = ["Default","CineSelect","IMDb","RottenTomatoes","Year","Title A-Z","Title Z-A"];
+const sortOrderOptions = ["Descending","Ascending"];
 
 
 // favorites.json verilerini oku
@@ -65,26 +54,25 @@ const manifest = {
       name: "🎬 Serkan's Watch Again Movies",
       extra: [
         {
-          name: "Top",
+          name: "year",
           isRequired: false,
-          options: yearsToSortOptions(movieYears),
-          optionsLimit: 200,
-          id: "sort"
+          options: movieYears,
+          optionsLimit: 200
         },
         {
-          name: "Sort By",
+          name: "sortField",
           isRequired: false,
           options: sortFieldOptions,
           id: "sortField"
         },
         {
-          name: "Sort Order",
+          name: "sortOrder",
           isRequired: false,
           options: sortOrderOptions,
           id: "sortOrder"
         }
       ],
-      extraSupported: ["skip", "sort", "sortField", "sortOrder"]
+      extraSupported: ["skip", "year", "sortField", "sortOrder"]
     },
     {
       type: "series",
@@ -92,26 +80,25 @@ const manifest = {
       name: "📺 Serkan's Watch Again Series",
       extra: [
         {
-          name: "Top",
+          name: "year",
           isRequired: false,
-          options: yearsToSortOptions(seriesYears),
-          optionsLimit: 200,
-          id: "sort"
+          options: seriesYears,
+          optionsLimit: 200
         },
         {
-          name: "Sort By",
+          name: "sortField",
           isRequired: false,
           options: sortFieldOptions,
           id: "sortField"
         },
         {
-          name: "Sort Order",
+          name: "sortOrder",
           isRequired: false,
           options: sortOrderOptions,
           id: "sortOrder"
         }
       ],
-      extraSupported: ["skip", "sort", "sortField", "sortOrder"]
+      extraSupported: ["skip", "year", "sortField", "sortOrder"]
     }
   ],
   idPrefixes: ["tt"]
@@ -123,11 +110,20 @@ const builder = new addonBuilder(manifest);
 builder.defineCatalogHandler((args) => {
   const skip = parseInt(args.skip || 0);
   const limit = parseInt(args.limit || 100);
-  const sortField = args.extra && args.extra.sortField ? args.extra.sortField : "default";
-  const sortOrder = args.extra && args.extra.sortOrder ? args.extra.sortOrder : "desc";
-  const sort = args.extra && args.extra.sort ? String(args.extra.sort) : "Top";
-  const year = (/^\d{4}$/.test(sort) ? sort : (args.extra && args.extra.year ? args.extra.year : undefined));
-  console.log("catalog params => sort:", sort, "| year:", year, "| sortField:", sortField, "| sortOrder:", sortOrder);
+  const year = args.extra?.year ? String(args.extra.year) : undefined;
+  const sortFieldLabel = args.extra?.sortField || "Default";
+  const sortFieldMap = {
+    "Default": "default",
+    "CineSelect": "cineselect",
+    "IMDb": "imdb",
+    "RottenTomatoes": "rt",
+    "Year": "year",
+    "Title A-Z": "title_az",
+    "Title Z-A": "title_za"
+  };
+  const sortField = sortFieldMap[sortFieldLabel] || "default";
+  const sortOrder = (args.extra?.sortOrder === "Ascending") ? "asc" : "desc";
+  console.log("catalog params => year:", year, "| sortField:", sortFieldLabel, "| sortOrder:", sortOrder);
 
   function getSortedFiltered(list, type) {
     // Filter by year if provided
