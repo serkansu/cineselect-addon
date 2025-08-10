@@ -2,71 +2,71 @@
     "movies": [
         {
             "year": "1995",
-            "rt": 76,
             "id": "tmdb197",
             "type": "movie",
-            "imdb": "tt0112573",
-            "title": "Braveheart",
-            "imdbRating": 8.3,
+            "cineselectRating": 9681,
             "poster": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
-            "cineselectRating": 9681
+            "imdb": "tt0112573",
+            "imdbRating": 8.3,
+            "rt": 76,
+            "title": "Braveheart"
         },
         {
             "year": "1959",
-            "rt": 89,
             "id": "tmdb665",
             "type": "movie",
-            "imdb": "tt0052618",
-            "title": "Ben-Hur",
-            "imdbRating": 8.1,
+            "cineselectRating": 8641,
             "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
-            "cineselectRating": 8641
+            "imdb": "tt0052618",
+            "imdbRating": 8.1,
+            "rt": 89,
+            "title": "Ben-Hur"
         },
         {
             "year": "1994",
-            "rt": 92,
             "id": "tmdb680",
             "type": "movie",
-            "imdb": "tt0110912",
-            "title": "Pulp Fiction",
-            "imdbRating": 8.9,
+            "cineselectRating": 5000,
             "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
-            "cineselectRating": 5000
+            "imdb": "tt0110912",
+            "imdbRating": 8.9,
+            "rt": 92,
+            "title": "Pulp Fiction"
         },
         {
-            "rt": 0,
             "year": "1965",
-            "type": "movie",
             "id": "tmdb938",
-            "imdb": "tt0059578",
-            "title": "For a Few Dollars More",
-            "imdbRating": 0.0,
+            "type": "movie",
+            "cineselectRating": 9701,
             "poster": "https://image.tmdb.org/t/p/w500/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
-            "cineselectRating": 5000
+            "imdb": "tt0059578",
+            "imdbRating": 0.0,
+            "rt": 0,
+            "title": "For a Few Dollars More"
         },
         {
             "year": "2013",
-            "rt": 0,
             "id": "tmdb96721",
             "type": "movie",
-            "imdbRating": 0.0,
-            "title": "Rush",
-            "imdb": "tt1979320",
+            "cineselectRating": 10000,
             "poster": "https://image.tmdb.org/t/p/w500/kmusuTahCEBrTgdO69sY13gfxBw.jpg",
-            "cineselectRating": 5000
+            "imdb": "tt1979320",
+            "imdbRating": 0.0,
+            "rt": 0,
+            "title": "Rush"
         }
     ],
     "shows": [
         {
             "year": "2023",
-            "rt": 96,
             "id": "tmdb100088",
             "type": "show",
-            "imdb": "tt3581920",
-            "title": "The Last of Us",
-            "imdbRating": 8.8,
+            "cineselectRating": 5000,
             "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
-            "cineselectRating": 5000
+            "imdb": "tt3581920",
+            "imdbRating": 8.8,
+            "rt": 96,
+            "title": "The Last of Us"
         }
     ]
 }
