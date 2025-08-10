@@ -56,7 +56,7 @@ const manifest = {
         {
           name: "year",
           isRequired: false,
-          options: movieYears,
+          options: ["Top", ...movieYears],
           optionsLimit: 200
         },
         {
@@ -82,7 +82,7 @@ const manifest = {
         {
           name: "year",
           isRequired: false,
-          options: seriesYears,
+          options: ["Top", ...seriesYears],
           optionsLimit: 200
         },
         {
