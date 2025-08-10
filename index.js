@@ -197,7 +197,8 @@ builder.defineCatalogHandler((args) => {
         name: movie.title,
         poster: movie.poster || "",
         description: movie.description || "",
-        releaseInfo: movie.year ? String(movie.year) : undefined
+        releaseInfo: movie.year ? String(movie.year) : undefined,
+        year: movie.year ? parseInt(movie.year, 10) : undefined
       }));
     return Promise.resolve({ metas });
   }
@@ -212,7 +213,8 @@ builder.defineCatalogHandler((args) => {
         name: series.title,
         poster: series.poster || "",
         description: series.description || "",
-        releaseInfo: series.year ? String(series.year) : undefined
+        releaseInfo: series.year ? String(series.year) : undefined,
+        year: series.year ? parseInt(series.year, 10) : undefined
       }));
     return Promise.resolve({ metas });
   }
