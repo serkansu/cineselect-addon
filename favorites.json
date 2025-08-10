@@ -1,336 +1,347 @@
 {
     "movies": [
         {
-            "imdb": "tt35882130",
             "cineselectRating": 9300,
-            "title": "Alien, Terror in Space",
+            "type": "movie",
             "year": "2025",
+            "imdb": "tt35882130",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/3WHBd1E53eyYl4526tIBdUV3SqO.jpg",
-            "imdbRating": 0.0,
             "id": "tmdb1437631",
-            "type": "movie"
+            "title": "Alien, Terror in Space",
+            "poster": "https://image.tmdb.org/t/p/w500/3WHBd1E53eyYl4526tIBdUV3SqO.jpg",
+            "imdbRating": 0.0
         },
         {
-            "imdb": "tt5013056",
             "cineselectRating": 8361,
-            "title": "Dunkirk",
+            "imdb": "tt5013056",
             "year": "2017",
+            "type": "movie",
+            "title": "Dunkirk",
+            "id": "tmdb374720",
             "rt": 92,
             "poster": "https://image.tmdb.org/t/p/w500/b4Oe15CGLL61Ped0RAS9JpqdmCt.jpg",
-            "imdbRating": 7.8,
-            "id": "tmdb374720",
-            "type": "movie"
+            "imdbRating": 7.8
         },
         {
-            "imdb": "tt1340138",
             "cineselectRating": 9601,
-            "title": "Terminator Genisys",
+            "imdb": "tt1340138",
             "year": "2015",
+            "type": "movie",
             "rt": 26,
-            "poster": "https://image.tmdb.org/t/p/w500/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg",
             "id": "tmdb87101",
-            "imdbRating": 6.3,
-            "type": "movie"
+            "title": "Terminator Genisys",
+            "poster": "https://image.tmdb.org/t/p/w500/oZRVDpNtmHk8M1VYy1aeOWUXgbC.jpg",
+            "imdbRating": 6.3
         },
         {
+            "cineselectRating": 9691,
             "imdb": "tt1979320",
-            "cineselectRating": 9691,
-            "title": "Rush",
             "year": "2013",
+            "type": "movie",
             "rt": 89,
-            "poster": "https://image.tmdb.org/t/p/w500/kmusuTahCEBrTgdO69sY13gfxBw.jpg",
-            "imdbRating": 8.1,
             "id": "tmdb96721",
-            "type": "movie"
+            "title": "Rush",
+            "poster": "https://image.tmdb.org/t/p/w500/kmusuTahCEBrTgdO69sY13gfxBw.jpg",
+            "imdbRating": 8.1
         },
         {
-            "imdb": "tt1446714",
             "cineselectRating": 8311,
-            "title": "Prometheus",
+            "type": "movie",
             "year": "2012",
+            "imdb": "tt1446714",
             "rt": 73,
-            "poster": "https://image.tmdb.org/t/p/w500/m7nZCtHJyDLncBUarfM5h5mrppx.jpg",
-            "imdbRating": 7.0,
             "id": "tmdb70981",
-            "type": "movie"
+            "title": "Prometheus",
+            "poster": "https://image.tmdb.org/t/p/w500/m7nZCtHJyDLncBUarfM5h5mrppx.jpg",
+            "imdbRating": 7.0
         },
         {
-            "imdb": "tt0438488",
-            "cineselectRating": 9131,
-            "title": "Terminator Salvation",
+            "cineselectRating": 9361,
+            "type": "movie",
             "year": "2009",
-            "rt": 33,
-            "poster": "https://image.tmdb.org/t/p/w500/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg",
-            "imdbRating": 6.5,
-            "id": "tmdb534",
-            "type": "movie"
+            "imdb": "tt0499549",
+            "title": "Avatar",
+            "id": "tmdb19995",
+            "rt": 81,
+            "poster": "https://image.tmdb.org/t/p/w500/kyeqWdyUXW608qlYkRqosgbbJyK.jpg",
+            "imdbRating": 7.9
         },
         {
-            "imdb": "tt0317219",
+            "cineselectRating": 9131,
+            "type": "movie",
+            "year": "2009",
+            "imdb": "tt0438488",
+            "rt": 33,
+            "id": "tmdb534",
+            "title": "Terminator Salvation",
+            "poster": "https://image.tmdb.org/t/p/w500/gw6JhlekZgtKUFlDTezq3j5JEPK.jpg",
+            "imdbRating": 6.5
+        },
+        {
             "cineselectRating": 9691,
-            "title": "Cars",
+            "type": "movie",
             "year": "2006",
+            "imdb": "tt0317219",
+            "title": "Cars",
+            "id": "tmdb920",
             "rt": 74,
             "poster": "https://image.tmdb.org/t/p/w500/u4G8EkiIBZYx0wEg2xDlXZigTOZ.jpg",
-            "imdbRating": 7.3,
-            "id": "tmdb920",
-            "type": "movie"
+            "imdbRating": 7.3
         },
         {
-            "imdb": "tt0482571",
             "cineselectRating": 9121,
-            "title": "The Prestige",
+            "imdb": "tt0482571",
             "year": "2006",
+            "type": "movie",
+            "title": "The Prestige",
+            "id": "tmdb1124",
             "rt": 77,
             "poster": "https://image.tmdb.org/t/p/w500/a03qYIZM0zkEutN5JRZddTBmQqY.jpg",
-            "id": "tmdb1124",
-            "imdbRating": 8.5,
-            "type": "movie"
+            "imdbRating": 8.5
         },
         {
-            "imdb": "tt0118583",
             "cineselectRating": 9420,
-            "title": "Alien Resurrection",
+            "type": "movie",
             "year": "1997",
+            "imdb": "tt0118583",
             "rt": 55,
-            "poster": "https://image.tmdb.org/t/p/w500/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
-            "imdbRating": 6.2,
             "id": "tmdb8078",
-            "type": "movie"
+            "title": "Alien Resurrection",
+            "poster": "https://image.tmdb.org/t/p/w500/9aRDMlU5Zwpysilm0WCWzU2PCFv.jpg",
+            "imdbRating": 6.2
         },
         {
-            "imdb": "tt0112573",
             "cineselectRating": 9911,
-            "title": "Braveheart",
+            "type": "movie",
             "year": "1995",
+            "imdb": "tt0112573",
             "rt": 76,
-            "poster": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
-            "imdbRating": 8.3,
             "id": "tmdb197",
-            "type": "movie"
+            "title": "Braveheart",
+            "poster": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
+            "imdbRating": 8.3
         },
         {
-            "imdb": "tt0110912",
             "cineselectRating": 5000,
-            "title": "Pulp Fiction",
+            "imdb": "tt0110912",
             "year": "1994",
+            "type": "movie",
             "rt": 92,
-            "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
-            "imdbRating": 8.9,
             "id": "tmdb680",
-            "type": "movie"
+            "title": "Pulp Fiction",
+            "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+            "imdbRating": 8.9
         },
         {
-            "imdb": "tt0103644",
             "cineselectRating": 9330,
-            "title": "Alien³",
+            "type": "movie",
             "year": "1992",
+            "imdb": "tt0103644",
             "rt": 44,
-            "poster": "https://image.tmdb.org/t/p/w500/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
-            "imdbRating": 6.4,
             "id": "tmdb8077",
-            "type": "movie"
+            "title": "Alien³",
+            "poster": "https://image.tmdb.org/t/p/w500/xh5wI0UoW7DfS1IyLy3d2CgrCEP.jpg",
+            "imdbRating": 6.4
         },
         {
-            "imdb": "tt0103772",
             "cineselectRating": 8751,
-            "title": "Basic Instinct",
+            "imdb": "tt0103772",
             "year": "1992",
+            "type": "movie",
+            "title": "Basic Instinct",
+            "id": "tmdb402",
             "rt": 56,
             "poster": "https://image.tmdb.org/t/p/w500/76Ts0yoHk8kVQj9MMnoMixhRWoh.jpg",
-            "imdbRating": 7.1,
-            "id": "tmdb402",
-            "type": "movie"
+            "imdbRating": 7.1
         },
         {
-            "imdb": "tt0099653",
             "cineselectRating": 6771,
-            "title": "Ghost",
+            "imdb": "tt0099653",
             "year": "1990",
+            "type": "movie",
             "rt": 74,
-            "poster": "https://image.tmdb.org/t/p/w500/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
-            "imdbRating": 7.1,
             "id": "tmdb251",
-            "type": "movie"
+            "title": "Ghost",
+            "poster": "https://image.tmdb.org/t/p/w500/w9RaPHov8oM5cnzeE27isnFMsvS.jpg",
+            "imdbRating": 7.1
         },
         {
-            "imdb": "tt0818086",
             "cineselectRating": 9971,
-            "title": "Back to the Future (Part II): Behind-the-Scenes Special Presentation",
+            "imdb": "tt0818086",
             "year": "1989",
+            "type": "movie",
             "rt": 0,
-            "poster": "https://image.tmdb.org/t/p/w500/eA7oa7uBUpksFkWCXCTPS6un5bm.jpg",
             "id": "tmdb48499",
-            "imdbRating": 7.2,
-            "type": "movie"
+            "title": "Back to the Future (Part II): Behind-the-Scenes Special Presentation",
+            "poster": "https://image.tmdb.org/t/p/w500/eA7oa7uBUpksFkWCXCTPS6un5bm.jpg",
+            "imdbRating": 7.2
         },
         {
-            "imdb": "tt0090605",
             "cineselectRating": 9600,
-            "title": "Aliens",
+            "type": "movie",
             "year": "1986",
+            "imdb": "tt0090605",
             "rt": 94,
-            "poster": "https://image.tmdb.org/t/p/w500/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
-            "imdbRating": 8.4,
             "id": "tmdb679",
-            "type": "movie"
+            "title": "Aliens",
+            "poster": "https://image.tmdb.org/t/p/w500/r1x5JGpyqZU8PYhbs4UcrO1Xb6x.jpg",
+            "imdbRating": 8.4
         },
         {
-            "imdb": "tt0088763",
             "cineselectRating": 9981,
-            "title": "Back to the Future",
+            "imdb": "tt0088763",
             "year": "1985",
+            "type": "movie",
             "rt": 93,
-            "poster": "https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
             "id": "tmdb105",
-            "imdbRating": 8.5,
-            "type": "movie"
+            "title": "Back to the Future",
+            "poster": "https://image.tmdb.org/t/p/w500/fNOH9f1aA7XRTzl1sAOx9iF553Q.jpg",
+            "imdbRating": 8.5
         },
         {
-            "imdb": "tt0099088",
             "cineselectRating": 9961,
-            "title": "Back to the Future Part III",
+            "imdb": "tt0099088",
             "year": "1990",
+            "type": "movie",
             "rt": 79,
-            "poster": "https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
             "id": "tmdb196",
-            "imdbRating": 7.5,
-            "type": "movie"
+            "title": "Back to the Future Part III",
+            "poster": "https://image.tmdb.org/t/p/w500/crzoVQnMzIrRfHtQw0tLBirNfVg.jpg",
+            "imdbRating": 7.5
         },
         {
-            "imdb": "tt0088247",
             "cineselectRating": 9891,
-            "title": "The Terminator",
+            "type": "movie",
             "year": "1984",
+            "imdb": "tt0088247",
+            "title": "The Terminator",
+            "id": "tmdb218",
             "rt": 100,
             "poster": "https://image.tmdb.org/t/p/w500/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
-            "id": "tmdb218",
-            "imdbRating": 8.1,
-            "type": "movie"
+            "imdbRating": 8.1
         },
         {
-            "imdb": "tt6450804",
             "cineselectRating": 9321,
-            "title": "Terminator: Dark Fate",
+            "imdb": "tt6450804",
             "year": "2019",
+            "type": "movie",
             "rt": 70,
-            "poster": "https://image.tmdb.org/t/p/w500/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg",
             "id": "tmdb290859",
-            "imdbRating": 6.2,
-            "type": "movie"
+            "title": "Terminator: Dark Fate",
+            "poster": "https://image.tmdb.org/t/p/w500/vqzNJRH4YyquRiWxCCOH0aXggHI.jpg",
+            "imdbRating": 6.2
         },
         {
-            "imdb": "tt0103064",
             "cineselectRating": 9881,
-            "title": "Terminator 2: Judgment Day",
+            "type": "movie",
             "year": "1991",
+            "imdb": "tt0103064",
+            "title": "Terminator 2: Judgment Day",
+            "id": "tmdb280",
             "rt": 91,
             "poster": "https://image.tmdb.org/t/p/w500/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
-            "id": "tmdb280",
-            "imdbRating": 8.6,
-            "type": "movie"
+            "imdbRating": 8.6
         },
         {
-            "imdb": "tt0181852",
             "cineselectRating": 9871,
-            "title": "Terminator 3: Rise of the Machines",
+            "type": "movie",
             "year": "2003",
+            "imdb": "tt0181852",
+            "title": "Terminator 3: Rise of the Machines",
+            "id": "tmdb296",
             "rt": 70,
             "poster": "https://image.tmdb.org/t/p/w500/vvevzdYIrk2636maNW4qeWmlPFG.jpg",
-            "id": "tmdb296",
-            "imdbRating": 6.3,
-            "type": "movie"
+            "imdbRating": 6.3
         },
         {
-            "imdb": "tt0078748",
             "cineselectRating": 9831,
-            "title": "Alien",
+            "imdb": "tt0078748",
             "year": "1979",
+            "type": "movie",
+            "title": "Alien",
+            "id": "tmdb348",
             "rt": 93,
             "poster": "https://image.tmdb.org/t/p/w500/vfrQk5IPloGg1v9Rzbh2Eg3VGyM.jpg",
-            "imdbRating": 8.5,
-            "id": "tmdb348",
-            "type": "movie"
+            "imdbRating": 8.5
         },
         {
-            "imdb": "tt18412256",
             "cineselectRating": 9240,
-            "title": "Alien: Romulus",
+            "type": "movie",
             "year": "2024",
+            "imdb": "tt18412256",
             "rt": 80,
-            "poster": "https://image.tmdb.org/t/p/w500/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
-            "imdbRating": 7.1,
             "id": "tmdb945961",
-            "type": "movie"
+            "title": "Alien: Romulus",
+            "poster": "https://image.tmdb.org/t/p/w500/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
+            "imdbRating": 7.1
         },
         {
-            "imdb": "tt2316204",
             "cineselectRating": 9051,
-            "title": "Alien: Covenant",
+            "type": "movie",
             "year": "2017",
+            "imdb": "tt2316204",
             "rt": 65,
-            "poster": "https://image.tmdb.org/t/p/w500/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
-            "imdbRating": 6.4,
             "id": "tmdb126889",
-            "type": "movie"
+            "title": "Alien: Covenant",
+            "poster": "https://image.tmdb.org/t/p/w500/zecMELPbU5YMQpC81Z8ImaaXuf9.jpg",
+            "imdbRating": 6.4
         },
         {
-            "imdb": "tt0052618",
             "cineselectRating": 8641,
-            "title": "Ben-Hur",
+            "imdb": "tt0052618",
             "year": "1959",
+            "type": "movie",
             "rt": 89,
-            "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
-            "imdbRating": 8.1,
             "id": "tmdb665",
-            "type": "movie"
+            "title": "Ben-Hur",
+            "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+            "imdbRating": 8.1
         }
     ],
     "series": [
         {
-            "imdb": "tt3581920",
             "cineselectRating": 5000,
-            "title": "The Last of Us",
+            "imdb": "tt3581920",
             "year": "2023",
+            "type": "show",
             "rt": 96,
-            "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
-            "imdbRating": 8.8,
             "id": "tmdb100088",
-            "type": "show"
+            "title": "The Last of Us",
+            "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+            "imdbRating": 8.8
         },
         {
-            "imdb": "tt0903747",
             "cineselectRating": 9991,
-            "title": "Breaking Bad",
+            "imdb": "tt0903747",
             "year": "2008",
+            "type": "show",
             "rt": 96,
-            "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
-            "imdbRating": 9.5,
             "id": "tmdb1396",
-            "type": "show"
+            "title": "Breaking Bad",
+            "poster": "https://image.tmdb.org/t/p/w500/ztkUQFLlC19CCMYHW9o1zWhJRNq.jpg",
+            "imdbRating": 9.5
         },
         {
-            "imdb": "tt0411008",
             "cineselectRating": 9961,
-            "title": "Lost",
+            "imdb": "tt0411008",
             "year": "2004",
+            "type": "show",
+            "title": "Lost",
+            "id": "tmdb4607",
             "rt": 80,
             "poster": "https://image.tmdb.org/t/p/w500/og6S0aTZU6YUJAbqxeKjCa3kY1E.jpg",
-            "id": "tmdb4607",
-            "imdbRating": 8.3,
-            "type": "show"
+            "imdbRating": 8.3
         },
         {
-            "imdb": "tt0296310",
             "cineselectRating": 9721,
-            "title": "The Blue Planet",
+            "imdb": "tt0296310",
             "year": "2001",
+            "type": "show",
+            "title": "The Blue Planet",
+            "id": "tmdb13579",
             "rt": 0,
             "poster": "https://image.tmdb.org/t/p/w500/jiedd3kJ2Xr4y05CdFCbu0vQPiD.jpg",
-            "imdbRating": 9.0,
-            "id": "tmdb13579",
-            "type": "show"
+            "imdbRating": 9.0
         }
     ]
 }
