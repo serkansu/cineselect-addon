@@ -1,72 +1,94 @@
 {
     "movies": [
         {
-            "poster": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
+            "imdb": "tt0112573",
             "rt": 76,
+            "poster": "https://image.tmdb.org/t/p/w500/or1gBugydmjToAEq7OZY0owwFk.jpg",
             "imdbRating": 8.3,
+            "id": "tmdb197",
             "type": "movie",
             "year": "1995",
             "title": "Braveheart",
-            "cineselectRating": 9681,
-            "imdb": "tt0112573",
-            "id": "tmdb197"
+            "cineselectRating": 9681
         },
         {
-            "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
-            "rt": 89,
+            "imdb": "tt0088247",
+            "rt": 100,
+            "poster": "https://image.tmdb.org/t/p/w500/hzXSE66v6KthZ8nPoLZmsi2G05j.jpg",
             "imdbRating": 8.1,
+            "id": "tmdb218",
+            "type": "movie",
+            "year": "1984",
+            "title": "The Terminator",
+            "cineselectRating": 5000
+        },
+        {
+            "imdb": "tt0103064",
+            "rt": 91,
+            "poster": "https://image.tmdb.org/t/p/w500/5M0j0B18abtBI5gi2RhfjjurTqb.jpg",
+            "imdbRating": 8.6,
+            "id": "tmdb280",
+            "type": "movie",
+            "year": "1991",
+            "title": "Terminator 2: Judgment Day",
+            "cineselectRating": 5000
+        },
+        {
+            "imdb": "tt0181852",
+            "rt": 70,
+            "poster": "https://image.tmdb.org/t/p/w500/vvevzdYIrk2636maNW4qeWmlPFG.jpg",
+            "imdbRating": 6.3,
+            "id": "tmdb296",
+            "type": "movie",
+            "year": "2003",
+            "title": "Terminator 3: Rise of the Machines",
+            "cineselectRating": 5000
+        },
+        {
+            "imdb": "tt0052618",
+            "rt": 89,
+            "poster": "https://image.tmdb.org/t/p/w500/m4WQ1dBIrEIHZNCoAjdpxwSKWyH.jpg",
+            "imdbRating": 8.1,
+            "id": "tmdb665",
             "type": "movie",
             "year": "1959",
             "title": "Ben-Hur",
-            "cineselectRating": 8641,
-            "imdb": "tt0052618",
-            "id": "tmdb665"
+            "cineselectRating": 8641
         },
         {
-            "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
+            "imdb": "tt0110912",
             "rt": 92,
+            "poster": "https://image.tmdb.org/t/p/w500/vQWk5YBFWF4bZaofAbv0tShwBvQ.jpg",
             "imdbRating": 8.9,
+            "id": "tmdb680",
             "type": "movie",
             "year": "1994",
             "title": "Pulp Fiction",
-            "cineselectRating": 5000,
-            "imdb": "tt0110912",
-            "id": "tmdb680"
+            "cineselectRating": 5000
         },
         {
-            "poster": "https://image.tmdb.org/t/p/w500/ooqASvA7qxlTVKL3KwOzBwy57Dh.jpg",
-            "rt": 0,
-            "imdbRating": 0.0,
-            "type": "movie",
-            "year": "1965",
-            "title": "For a Few Dollars More",
-            "cineselectRating": 9701,
-            "imdb": "tt0059578",
-            "id": "tmdb938"
-        },
-        {
+            "imdb": "tt1979320",
+            "rt": 89,
             "poster": "https://image.tmdb.org/t/p/w500/kmusuTahCEBrTgdO69sY13gfxBw.jpg",
-            "rt": 0,
-            "imdbRating": 0.0,
+            "imdbRating": 8.1,
+            "id": "tmdb96721",
             "type": "movie",
             "year": "2013",
             "title": "Rush",
-            "cineselectRating": 10000,
-            "imdb": "tt1979320",
-            "id": "tmdb96721"
+            "cineselectRating": 9691
         }
     ],
-    "shows": [
+    "series": [
         {
-            "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
+            "imdb": "tt3581920",
             "rt": 96,
+            "poster": "https://image.tmdb.org/t/p/w500/dmo6TYuuJgaYinXBPjrgG9mB5od.jpg",
             "imdbRating": 8.8,
+            "id": "tmdb100088",
             "type": "show",
             "year": "2023",
             "title": "The Last of Us",
-            "cineselectRating": 5000,
-            "imdb": "tt3581920",
-            "id": "tmdb100088"
+            "cineselectRating": 5000
         }
     ]
 }
