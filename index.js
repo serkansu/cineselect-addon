@@ -64,23 +64,11 @@ const manifest = {
           name: "Year",
           isRequired: false,
           options: movieYears,
-          optionsLimit: 30,
+          optionsLimit: 40,
           id: "year"
-        },
-        {
-          name: "Sort By",
-          isRequired: false,
-          options: sortFieldOptions,
-          id: "sortField"
-        },
-        {
-          name: "Sort Order",
-          isRequired: false,
-          options: sortOrderOptions,
-          id: "sortOrder"
         }
       ],
-      extraSupported: ["skip", "year", "sortField", "sortOrder"]
+      extraSupported: ["skip", "year"]
     },
     {
       type: "series",
@@ -91,23 +79,11 @@ const manifest = {
           name: "Year",
           isRequired: false,
           options: seriesYears,
-          optionsLimit: 30,
+          optionsLimit: 40,
           id: "year"
-        },
-        {
-          name: "Sort By",
-          isRequired: false,
-          options: sortFieldOptions,
-          id: "sortField"
-        },
-        {
-          name: "Sort Order",
-          isRequired: false,
-          options: sortOrderOptions,
-          id: "sortOrder"
         }
       ],
-      extraSupported: ["skip", "year", "sortField", "sortOrder"]
+      extraSupported: ["skip", "year"]
     }
   ],
   idPrefixes: ["tt"]
