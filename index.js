@@ -110,7 +110,8 @@ const builder = new addonBuilder(manifest);
 builder.defineCatalogHandler((args) => {
   const skip = parseInt(args.skip || 0);
   const limit = parseInt(args.limit || 100);
-  const year = args.extra?.year ? String(args.extra.year) : undefined;
+  let year = args.extra?.year ? String(args.extra.year) : undefined;
+  if (year === "Top") year = undefined;
   const sortFieldLabel = args.extra?.sortField || "Default";
   const sortFieldMap = {
     "Default": "default",
@@ -139,16 +140,16 @@ builder.defineCatalogHandler((args) => {
         let aVal, bVal;
         switch (sortField) {
           case "cineselect":
-            aVal = a.cineselect ?? 0;
-            bVal = b.cineselect ?? 0;
+            aVal = Number(a.cineselectRating) || 0;
+            bVal = Number(b.cineselectRating) || 0;
             break;
           case "imdb":
-            aVal = a.imdb_rating ?? 0;
-            bVal = b.imdb_rating ?? 0;
+            aVal = Number(a.imdbRating) || 0;
+            bVal = Number(b.imdbRating) || 0;
             break;
           case "rt":
-            aVal = a.rt ?? 0;
-            bVal = b.rt ?? 0;
+            aVal = Number(a.rt) || 0;
+            bVal = Number(b.rt) || 0;
             break;
           case "year":
             aVal = parseInt(a.year, 10) || 0;
@@ -180,8 +181,12 @@ builder.defineCatalogHandler((args) => {
         return 0;
       });
     }
-    // Apply sortOrder if needed (for numeric sorts and title sorts)
-    if (sortOrder === "asc") {
+    // Apply sortOrder appropriately
+    if (["cineselect", "imdb", "rt", "year"].includes(sortField)) {
+      if (sortOrder === "asc") filtered = filtered.slice().reverse();
+    } else if (sortField === "title_az" && sortOrder === "desc") {
+      filtered = filtered.slice().reverse();
+    } else if (sortField === "title_za" && sortOrder === "asc") {
       filtered = filtered.slice().reverse();
     }
     return filtered;
