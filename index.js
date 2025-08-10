@@ -46,6 +46,10 @@ try {
 const movieYears = getYears(movieList);
 const seriesYears = getYears(seriesList);
 
+function yearsToSortOptions(yearsArr) {
+  return ["Top", ...yearsArr];
+}
+
 const manifest = {
   id: "community.serkanswatchagain",
   version: "1.0.0",
@@ -61,11 +65,11 @@ const manifest = {
       name: "🎬 Serkan's Watch Again Movies",
       extra: [
         {
-          name: "Year",
+          name: "Top",
           isRequired: false,
-          options: movieYears,
-          optionsLimit: 40,
-          id: "year"
+          options: yearsToSortOptions(movieYears),
+          optionsLimit: 200,
+          id: "sort"
         },
         {
           name: "Sort By",
@@ -80,7 +84,7 @@ const manifest = {
           id: "sortOrder"
         }
       ],
-      extraSupported: ["skip", "year", "sortField", "sortOrder"]
+      extraSupported: ["skip", "sort", "sortField", "sortOrder"]
     },
     {
       type: "series",
@@ -88,11 +92,11 @@ const manifest = {
       name: "📺 Serkan's Watch Again Series",
       extra: [
         {
-          name: "Year",
+          name: "Top",
           isRequired: false,
-          options: seriesYears,
-          optionsLimit: 40,
-          id: "year"
+          options: yearsToSortOptions(seriesYears),
+          optionsLimit: 200,
+          id: "sort"
         },
         {
           name: "Sort By",
@@ -107,7 +111,7 @@ const manifest = {
           id: "sortOrder"
         }
       ],
-      extraSupported: ["skip", "year", "sortField", "sortOrder"]
+      extraSupported: ["skip", "sort", "sortField", "sortOrder"]
     }
   ],
   idPrefixes: ["tt"]
@@ -119,9 +123,11 @@ const builder = new addonBuilder(manifest);
 builder.defineCatalogHandler((args) => {
   const skip = parseInt(args.skip || 0);
   const limit = parseInt(args.limit || 100);
-  const year = args.extra && args.extra.year ? args.extra.year : undefined;
   const sortField = args.extra && args.extra.sortField ? args.extra.sortField : "default";
   const sortOrder = args.extra && args.extra.sortOrder ? args.extra.sortOrder : "desc";
+  const sort = args.extra && args.extra.sort ? String(args.extra.sort) : "Top";
+  const year = (/^\d{4}$/.test(sort) ? sort : (args.extra && args.extra.year ? args.extra.year : undefined));
+  console.log("catalog params => sort:", sort, "| year:", year, "| sortField:", sortField, "| sortOrder:", sortOrder);
 
   function getSortedFiltered(list, type) {
     // Filter by year if provided
