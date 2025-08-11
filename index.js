@@ -72,7 +72,7 @@ const manifest = {
           id: "sortOrder"
         }
       ],
-      extraSupported: ["skip", "year", "sortField", "sortOrder"]
+      extraSupported: ["skip", "limit", "year", "sortField", "sortOrder"]
     },
     {
       type: "series",
@@ -98,7 +98,7 @@ const manifest = {
           id: "sortOrder"
         }
       ],
-      extraSupported: ["skip", "year", "sortField", "sortOrder"]
+      extraSupported: ["skip", "limit", "year", "sortField", "sortOrder"]
     }
   ],
   idPrefixes: ["tt"]
