@@ -1,5 +1,6 @@
 const { addonBuilder, serveHTTP } = require("stremio-addon-sdk");
 const fs = require("fs");
+const path = require("path");
 
 // Helper functions to extract years and build extras
 function getYears(list) {
@@ -22,7 +23,7 @@ const sortOrderOptions = ["Descending","Ascending"];
 let movieList = [];
 let seriesList = [];
 try {
-  const data = fs.readFileSync("favorites.json", "utf8");
+  const data = fs.readFileSync(path.join(__dirname, "favorites.json"), "utf8");
   const parsed = JSON.parse(data);
   movieList = parsed.movies || [];
   seriesList = parsed.series || [];
@@ -101,7 +102,7 @@ const manifest = {
       extraSupported: ["skip", "limit", "year", "sortField", "sortOrder"]
     }
   ],
-  idPrefixes: ["tt"]
+  idPrefixes: ["tt", "tmdb"]
 };
 
 const builder = new addonBuilder(manifest);
@@ -109,7 +110,7 @@ const builder = new addonBuilder(manifest);
 // catalog handler
 builder.defineCatalogHandler((args) => {
   const skip = parseInt(args.skip || 0);
-  const limit = parseInt(args.limit || 100);
+  const limit = 10000; // force single-page response: return up to 10k items in one request
   let year = args.extra?.year ? String(args.extra.year) : undefined;
   if (year === "Top") year = undefined;
   const sortFieldLabel = args.extra?.sortField || "Default";
@@ -196,15 +197,24 @@ builder.defineCatalogHandler((args) => {
     const sorted = getSortedFiltered(movieList, "movie");
     const metas = sorted
       .slice(skip, skip + limit)
-      .map((movie) => ({
-        id: movie.imdb && movie.imdb.startsWith("tt") ? movie.imdb : "tt" + String(movie.imdb || "").replace(/\D/g, ""),
-        type: "movie",
-        name: movie.title,
-        poster: movie.poster || "",
-        description: movie.description || "",
-        releaseInfo: movie.year ? String(movie.year) : undefined,
-        year: movie.year ? parseInt(movie.year, 10) : undefined
-      }));
+      .map((movie, i) => {
+        const id = (movie.imdb && movie.imdb.startsWith("tt"))
+          ? movie.imdb
+          : (movie.id ? String(movie.id)
+          : (movie.title ? (movie.title.toLowerCase().replace(/[^a-z0-9]+/g, "-") + "-" + (movie.year || ""))
+          : ("noid-" + (skip + i))));
+
+        return {
+          id,
+          type: "movie",
+          name: movie.title,
+          poster: movie.poster || "",
+          description: movie.description || "",
+          releaseInfo: movie.year ? String(movie.year) : undefined,
+          year: movie.year ? parseInt(movie.year, 10) : undefined
+        };
+      });
+    console.log("[catalog] movies skip=", skip, "limit=", limit, "returning=", metas.length);
     return Promise.resolve({ metas });
   }
 
@@ -212,15 +222,24 @@ builder.defineCatalogHandler((args) => {
     const sorted = getSortedFiltered(seriesList, "series");
     const metas = sorted
       .slice(skip, skip + limit)
-      .map((series) => ({
-        id: series.imdb && series.imdb.startsWith("tt") ? series.imdb : "tt" + String(series.imdb || "").replace(/\D/g, ""),
-        type: "series",
-        name: series.title,
-        poster: series.poster || "",
-        description: series.description || "",
-        releaseInfo: series.year ? String(series.year) : undefined,
-        year: series.year ? parseInt(series.year, 10) : undefined
-      }));
+      .map((series, i) => {
+        const id = (series.imdb && series.imdb.startsWith("tt"))
+          ? series.imdb
+          : (series.id ? String(series.id)
+          : (series.title ? (series.title.toLowerCase().replace(/[^a-z0-9]+/g, "-") + "-" + (series.year || ""))
+          : ("noid-" + (skip + i))));
+
+        return {
+          id,
+          type: "series",
+          name: series.title,
+          poster: series.poster || "",
+          description: series.description || "",
+          releaseInfo: series.year ? String(series.year) : undefined,
+          year: series.year ? parseInt(series.year, 10) : undefined
+        };
+      });
+    console.log("[catalog] series skip=", skip, "limit=", limit, "returning=", metas.length);
     return Promise.resolve({ metas });
   }
 
@@ -228,4 +247,4 @@ builder.defineCatalogHandler((args) => {
 });
 
 // HTTP sunucusu (Render veya yerel çalışma için)
-serveHTTP(builder.getInterface(), { port: 7010 });
+serveHTTP(builder.getInterface(), { port: process.env.PORT || 7010 });
